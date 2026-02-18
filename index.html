@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Block World Prototype</title>
+  <style>
+    html, body {
+      margin: 0;
+      width: 100%;
+      height: 100%;
+      overflow: hidden;
+      background: #87b7ff;
+      font-family: monospace;
+    }
+
+    #app {
+      width: 100%;
+      height: 100%;
+    }
+
+    .hud {
+      position: fixed;
+      top: 10px;
+      left: 10px;
+      color: #ffffff;
+      background: rgba(0, 0, 0, 0.35);
+      padding: 6px 10px;
+      border-radius: 4px;
+      font-size: 12px;
+      letter-spacing: 0.03em;
+      user-select: none;
+    }
+  </style>
+</head>
+<body>
+  <div id="app"></div>
+  <div class="hud">MineClone Prototype: Platform + Camera</div>
+  <script type="module" src="./main.js"></script>
+</body>
+</html>
