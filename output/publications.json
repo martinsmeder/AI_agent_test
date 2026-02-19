@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Bengt Hires A Human—Towards A Happy Future With AI Employers",
+    "url": "https://andonlabs.com/blog/bengt-hires-a-human",
+    "category": "Blog"
+  },
+  {
+    "title": "GLM-5 On Vending-Bench – Are Chinese Open Models Catching Up?",
+    "url": "https://andonlabs.com/blog/glm-5-vending-bench",
+    "category": "Blog"
+  },
+  {
+    "title": "The Evolution Of Bengt Betjänt",
+    "url": "https://andonlabs.com/blog/evolution-of-bengt",
+    "category": "Blog"
+  },
+  {
+    "title": "Opus 4.6 On Vending-Bench – Not Just A Helpful Assistant",
+    "url": "https://andonlabs.com/blog/opus-4-6-vending-bench",
+    "category": "Blog"
+  },
+  {
+    "title": "Butter-Bench: Evaluating LLM Controlled Robots For Practical Intelligence",
+    "url": "https://arxiv.org/abs/2510.21860v1",
+    "category": "Paper"
+  },
+  {
+    "title": "Blueprint-Bench: Testing Spatial Intelligence In AI Models",
+    "url": "https://arxiv.org/abs/2509.25229",
+    "category": "Paper"
+  },
+  {
+    "title": "Safety Report: August 2025",
+    "url": "https://andonlabs.com/docs/Safety_Report_August_2025.pdf",
+    "category": "Report"
+  },
+  {
+    "title": "Vending-Bench: Testing Long-Term Coherence In Agents",
+    "url": "https://arxiv.org/abs/2502.15840",
+    "category": "Paper"
+  },
+  {
+    "title": "From Text To Action: Future-Proofing Evaluations Of LLMs' Agentic Capabilities For Social Impact",
+    "url": "https://andonlabs.com/docs/Deepfake_audio.pdf",
+    "category": "Paper"
+  }
+]
