@@ -1,0 +1,601 @@
+title,url,date,content
+"The Download: Microsoft’s online reality check, and the worrying rise in measles cases",https://www.technologyreview.com/2026/02/20/1133396/the-download-microsofts-online-reality-check-and-the-worrying-rise-in-measles-cases/,"Fri, 20 Feb 2026 13:10:00 +0000","This is today’s edition of  The Download ,  our weekday newsletter that provides a daily dose of what’s going on in the world of technology.
+
+ Microsoft has a new plan to prove what’s real and what’s AI online
+
+ AI-enabled deception now permeates our online lives. There are the high-profile cases you may easily spot. Other times, it slips quietly into social media feeds and racks up views.
+
+It is into this mess that Microsoft has put forward a blueprint, shared with MIT Technology Review , for how to prove what’s real online.
+
+An AI safety research team at the company recently evaluated how methods for documenting digital manipulation are faring against today’s most worrying AI developments, like interactive deepfakes and widely accessible hyperrealistic models. It then recommended technical standards that can be adopted by AI companies and social media platforms. Read the full story .
+
+ —James O’Donnell
+
+ Community service: a short story
+
+ In the not-too-distant future, civilians are enlisted to kill perceived threats to human life. In this short fiction story from the latest edition of our print magazine, writer Micaiah Johnson imagines the emotional toll that could take on ordinary people. Read the full story and if you haven’t already, subscribe now to get the next edition of the magazine.
+
+ Measles cases are rising. Other vaccine-preventable infections could be next.
+
+ There’s a measles outbreak happening close to where I live. Since the start of this year, 34 cases have been confirmed in Enfield, a northern borough of London.
+
+It’s another worrying development for an incredibly contagious and potentially fatal disease. Since October last year, 962 cases of measles have been confirmed in South Carolina. Large outbreaks (with more than 50 confirmed cases) are underway in four US states. Smaller outbreaks are being reported in another 12 states.
+
+The vast majority of these cases have been children who were not fully vaccinated. Vaccine hesitancy is thought to be a significant reason children are missing out on important vaccines. And if we’re seeing more measles cases now, we might expect to soon see more cases of other vaccine-preventable infections, including some that can cause liver cancer or meningitis. Read the full story .
+
+ —Jessica Hamzelou
+
+ This article first appeared in The Checkup, MIT Technology Review ’s weekly biotech newsletter. To receive it in your inbox every Thursday, and read articles like this first, sign up here .
+
+ The must-reads
+
+ I’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about technology.
+
+ 1 The US Environmental Protection Agency is being sued
+Health and environmental non-profits have accused it of abandoning its mission to protect the public. ( The Guardian )
+
+ 2 Amazon’s cloud unit has suffered two outages linked to its AI tools
+In one instance, its Kiro AI coding tool decided to delete and recreate part of a system. ( FT $)
++ Amazon keeps a close eye on how its workers use AI daily. ( The Information $)+ Security-conscious tech firms are restricting workers’ use of OpenClaw. ( Wired $)
+
+3 AI is making it easier to steal tech trade secrets
+It’s also making those secrets more lucrative. ( WSJ $)
++ Two former Googlers have been charged with illegally taking trade secrets. ( Bloomberg $)
+
+4 What a fake viral ICE tip-off line tells us about America
+ One call came from a teacher reporting the parents of a kindergarten student. ( WP $)
++ The agency’s software could speed up deportations. ( Economist $)
++ How an ICE detention actually unfolds. ( New Yorker $)
++ An internet personality is dividing those resisting on the streets of Minneapolis. ( The Verge )
+
+5 The number of malicious apps submitted to Google’s app store is falling
+Which Google attributes to its improved AI defences. ( TechCrunch )
++ Beware the rise of the vibe coded music app. ( The Verge )
+
+ 6 “Digital blackface” is on the rise
+ Generative AI tools steeped in racial stereotypes are being co-opted by users who are not Black themselves.( The Guardian )
++ OpenAI is huge in India. Its models are steeped in caste bias. ( MIT Technology Review )
+
+ 7 Grok exposed a porn performer’s legal name and birthdate
+Without even being explicitly asked for the information. ( 404 Media )
+
+ 8 India is embracing deepfakes of dead loved ones
+ But we don’t know how these kinds of clips could affect the long-term grieving process. ( Rest of World )
++ China has a flourishing market for deepfakes that clone the dead. ( MIT Technology Review )
+
+ 9 Longevity-linked products are big business
+We might spend up to $8 trillion annually on them by 2030. But do they work? ( The Atlantic $)
++ Meet the Vitalists: the hardcore longevity enthusiasts who believe death is “wrong.” ( MIT Technology Review )
+
+ 10 An AI film won’t be shown in cinemas after all
+Following a major public backlash after AMC Theatres announced its intention to screen a short AI movie called Thanksgiving Day . ( Hollywood Reporter )
++ Screen time is the villain in the trailer for the latest Toy Story installation. ( Insider $)
++ How do AI models generate videos? ( MIT Technology Review )
+
+ Quote of the day
+
+ “Nobody but Big Oil profits from Trump trashing climate science and making cars and trucks guzzle and pollute more.”
+
+ —David Pettit, an attorney at the Center for Biological Diversity, explains why the Center is suing the US Environmental Protection Agency over its decision to repeal a crucial climate ruling, Ars Technica reports.
+
+ One more thing
+
+ What happened to the microfinance organization Kiva?
+
+ Since it was founded in 2005, the San Francisco-based nonprofit Kiva has helped everyday people make microloans to borrowers around the world. It connects lenders in richer communities to fund all sorts of entrepreneurs, from bakers in Mexico to farmers in Albania. Its overarching aim is helping poor people help themselves.
+
+But back in August 2021, Kiva lenders started to notice that information that felt essential in deciding who to lend to was suddenly harder to find. Now, lenders are worried that the organization now seems more focused on how to make money than how to create change. Read the full story .
+
+ —Mara Kardas-Nelson
+
+ We can still have nice things
+
+ A place for comfort, fun and distraction to brighten up your day. (Got any ideas? Drop me a line or skeet ’em at me .)
+
+ + Is there a greater remix than this? I’m not convinced.
++ These photos of Scotland showcase just how beautiful it—and its wildlife—is.
++ It’s time to roll the dice and see where you end up—this random website generator is fun.
++ I’m a bit scared of the “ smiling fossil ” that’s just been discovered on Holy Island."
+Job titles of the future: Breast biomechanic,https://www.technologyreview.com/2026/02/20/1132629/job-titles-future-breast-biomechanic/,"Fri, 20 Feb 2026 11:00:00 +0000","Twenty years ago, Joanna Wakefield-Scurr was having persistent pain in her breasts. Her doctor couldn’t diagnose the cause but said a good, supportive bra could help. A professor of biomechanics, Wakefield-Scurr thought she could do a little research and find a science-backed option. Two decades later, she’s still looking. Wakefield-Scurr now leads an 18-person team at the Research Group in Breast Health at the University of Portsmouth in the UK. Their research shows that the most effective high-impact-sports bras have underwires, padded cups, adjustable underbands and shoulder straps, and hook-and-eye closures. These bras reduce breast movement by up to 74% when compared with wearing no bra. But movement might not be the only metric that matters.
+
+ A biological rarity
+
+ Few anatomical structures hang outside of the body unsupported by cartilage, muscle, or bone—meaning there wasn’t much historical research to build on. Wakefield-Scurr’s lab was the first to find that when women run, the motion of the torso causes breasts to move in a three-dimensional pattern —swinging side to side and up and down—as well as moving forward and backward. In an hour of slow jogging, boobs can bounce approximately 10,000 times .
+
+ A sports necessity
+
+ Wearing a bra that’s too tight can limit breathing . Wearing one that’s too loose can create back, shoulder, and neck pain . Pain can also be caused by the lag between torso and breast movement, which causes what is scientifically known as “breast slap.”
+
+ The lab’s research has also found that the physical discomfort of bad bras, combined with the embarrassment of flopping around, is the one of the biggest barriers to exercise for women and that if women have a good sports bra, they’re more willing to go for a run .
+
+ An open question
+
+ Some bras function by deliberately compressing breasts. Others encapsulate and support each individual breast. But scientists still don’t know whether it’s more biomechanically important to reduce the breasts’ motion entirely, to reduce the speed at which they move, or to reduce breast slap. Will women constantly be forced to choose between the comfort of a stretchier bra and the support of a more restrictive one?
+
+ Wakefield-Scurr is excited about new materials she’s tested that tighten or stretch depending on how you move. She’s working with fabric manufacturers and clothing companies to try out their wares.
+
+ As more women take up high-impact sports, the need to understand what makes a good bra grows. Wakefield-Scurr says her lab can’t keep up with demand. Their cups runneth over.
+
+ Sara Harrison is a freelance journalist who writes about science, technology, and health."
+Community service,https://www.technologyreview.com/2026/02/20/1132640/community-service-science-fiction-story/,"Fri, 20 Feb 2026 11:00:00 +0000","The bird is a beautiful silver-gray, and as she dies twitching in the lasernet I’m grateful for two things: First, that she didn’t make a sound. Second, that this will be the very last time. 
+
+ They’re called corpse doves—because the darkest part of their gray plumage surrounds the lighter part, giving the impression that skeleton faces are peeking out from behind trash cans and bushes—and their crime is having the ability to carry diseases that would be compatible with humans. I open my hand, triggering the display from my imprinted handheld, and record an image to verify the elimination. A ding from my palm lets me know I’ve reached my quota for the day and, with that, the year.
+
+ I’m tempted to give this one a send-off, a real burial with holy words and some flowers, but then I hear a pack of streetrats hooting beside me. My city-issued vest is reflective and nanopainted so it projects a slight glow. I don’t know if it’s to keep us safe like they say, or if it’s just that so many of us are ex-cons working court-ordered labor, and civilians want to be able to keep an eye on us. Either way, everyone treats us like we’re invisible—everyone except children.
+
+ I switch the lasernet on the bird from electrocute to incinerate and watch as what already looked like a corpse becomes ashes.
+
+ “Hey, executioner!” says a girl.
+
+ “Executioner” is not my official title. The branch of city government we work for is called the Department of Mercy, and we’re only ever called technicians. But that doesn’t matter to the child, who can’t be more than eight but has the authority of a judge as she holds up a finger to point me out to her friends.
+
+ HENRY HORENSTEIN
+
+ “Guys, look!” she says, then turns her attention to me. “You hunting something big?”
+
+ I shake my head, slowly packing up my things.
+
+ “Something small?” she asks. Then her eyes darken. “You’re not a cat killer, are you?”
+
+ “No,” I say quickly. “I do horseflies.”
+
+ I don’t know why I lied, but as the suspicion leaves her face and a smile returns, I’m glad I did.
+
+ “You should come down by the docks. We’ve got flies! Make your quota in a day.”
+
+ The girl tosses her hair, making the tinfoil charms she’s wrapped around her braids tinkle like wind chimes. 
+
+ “It’s my last day. But if I get flies again for next year, I’ll swing by.”
+
+ Another lie, because we both know the city would never send anyone to the docks for flies. Flies are killed because they are a nuisance, which means people only care about clearing them out of suburbs and financial districts. They’d only send a tech down to the docks to kill something that put the city proper at risk through disease, or by using up more resources than they wanted to spare.
+
+ LeeLee is expecting me home to sit through the reassignments with her and it’s already late, so I hand out a couple of the combination warming and light sticks I get for winter to the pack of children with nowhere to go. As I walk away, the children are laughing so loud it sounds like screaming. They toss the sticks in the air like signal flares, small bright cries for help that no one will see.
+
+ LeeLee’s anxiety takes the form of caretaking, and as soon as I’ve stepped through the door I can smell bread warming and soup on the stove. I take off my muffling boots. Another day, I’d leave them on and sneak up on her just to be irritating, and she’d turn and threaten me with whatever kitchen utensil was at hand. But she’ll be extra nervous today, so I remove the shoes that let me catch nervous birds, and step hard on my way in.
+
+ Sometimes it seems impossible that I can spend a year killing every fragile and defenseless thing I’ve encountered but still take such care with Lee. But I tell myself that the killing isn’t me—it’s just my sentence, and what I do when I have a choice is the only thing that really says anything about me. For the first six months and 400 birds, I believed it.
+
+ LeeLee flicks on a smile that lasts a whole three seconds when she sees me, then clouds over again.
+
+ “Soup’s too thin. There wasn’t enough powder for a real broth.”
+
+ “I like thin soup,” I say.
+
+ “Not like this. It doesn’t even cover up the taste of the water.”
+
+ “I like the taste of the water,” I say, which breaks her out of her spiraling enough to roll her eyes.
+
+ I put my hands on her shoulder to stop her fussing. 
+
+ “The soup is going to be fine,” I say. “So will the reassignment.”
+
+ I’m not much taller than she is, but when we met in juvie she hadn’t hit her last growth spurt yet, so she still tilts her head back to look me in the eyes. “What if it’s not?”
+
+ “It will—”
+
+ “What if you get whatever assignment Jordan got?”
+
+ There it is. Because two of us didn’t leave juvie together to start community service—three of us did. But Jordan didn’t last three weeks into his assignment before he turned his implements inward.
+
+ I notice she doesn’t say What if   I get what Jordan got? Because LeeLee is more afraid of being left alone than of having to kill something innocent.
+
+ “We don’t know what his assignment was,” I say.
+
+ It’s true, but we do know it was bad. Two weeks into our first stretch, a drug meant to sterilize the city’s feral cat population accidentally had the opposite effect. Everyone was pulled off their assigned duty for three days to murder litters of new kittens instead. It nearly broke me and Lee, but Jordan seemed almost grateful.
+
+ “Besides, we don’t know if his assignment had anything to do with … what he did. You’re borrowing trouble. Worry in”—I check my palm—“an hour, when you actually know there’s something to worry about.”
+
+ You’d think it would hover over us too insistently to be ignored, but after we sit down and talk about our day I’m at ease, basking in the warmth of her storytelling and the bread that’s more beige than gray today. When the notification comes in, I am well and truly happy, and I can only hope it isn’t for the last time.
+
+ We both stiffen when we hear the alert. She looks at me, and I give her a smile and a nod, and then we look down. In the time between hearing the notification and checking it, I imagine all kinds of horrors that could be in my assignment slot. I imagine a picture of kittens, reason enough for the girl I met earlier to condemn me. For a moment, just a flash, I imagine looking down and seeing my own face as my target, or LeeLee’s.
+
+ But when I finally see the file, the relief that comes over me softens my spine. It’s a plant. Faceless, and bloodless. 
+
+ I look up, and LeeLee’s eyes are dark as she leans forward, studying my face, looking for whatever crack she failed to see in Jordan. I force myself to smile wide for her.
+
+ “It’s a plant. I got a plant, Lee.”
+
+ She reaches forward and squeezes my hands. Hers are shaking.
+
+ “What did you get?” I ask.
+
+ She waves away my question. “I got rats. I can handle it. I was just worried about you.”
+
+ I spend the rest of the night unbelievably happy. For the next year, I get to kill a thing that does not scream.
+
+ “You get all that?” the man behind the desk asks, and I nod even though I didn’t.
+
+ I’ve traded in my boots and lasernet for a hazmat suit and a handheld mister with two different solutions. The man had been talking to me about how to use the solutions, but I can’t process verbal information very well. The whole reason I was sent to the correctional facility as a teen was that too many teachers mistook my processing delays for behavioral infractions. I’m planning to read the manual on my own time before I start in a few hours, but when I pick up the mister and look down the barrel, the equipment guy freaks out.
+
+ “They were supposed to add sulfur to this batch, but they didn’t. So you won’t smell it. It won’t make you cough or your eyes water. It’ll just be lights out. Good night. You got me?”
+
+ “Did you not hear me? Don’t even look at that thing without your mask on.” He takes a breath, calmer now that I’ve lowered my hands. “Look, the first solution—it’s fine. It’s keyed to the plant itself and just opens its cells up for whatever solution we put on it. You could drink the stuff. But that second? The orange vial? Don’t even put it in the mister without your mask on. It dissipates quickly, so you’re good once you’re done spraying, but not a second before.”
+
+ He looks around, then leans in. “They were supposed to add sulfur to this batch, but they didn’t. So you won’t smell it. It won’t make you cough or your eyes water. It’ll just be lights out. Good night. You got me?”
+
+ I nod again as I grab the mask I hadn’t noticed before. This time when I thank him, I mean it.
+
+ It takes me an hour to find the first plant, and when I do it’s beautiful. Lush pink on the inside and dark green on the outside, it looks hearty and primitive. Almost Jurassic. I can see why it’s only in the sewers now: it would be too easy to spot and destroy aboveground in the sea of concrete.
+
+ After putting on my mask, I activate the mister and then stand back as it sprays the plant with poison. Nothing happens. I remember the prepping solution and switch the cartridges to coat it in that first. The next time I try the poison, the plant wilts instantly, browning and shrinking like a tire deflating. I was wrong. Plants this size don’t die silently. It makes a wheezing sound, a deep sigh. By the third time I’ve heard it, I swear I can make out the word Please .
+
+ HENRY HORENSTEIN
+
+ When I get home, LeeLee’s locked herself in the bathroom, which doesn’t surprise me. I heard that they moved to acid for rats, and the smell of a corpse dissolving is impossible to get used to and even harder to get out of your hair. I eat dinner, read, change for bed, and she’s still in the bathroom. I brush my teeth in the kitchen.
+
+ The next morning, I have to take a transport to the plant’s habitat on the other end of the city, so I spend the time looking through the file that came with the assignment. Under “Characteristics,” some city government scientist has written, “Large, dark. Resource-intensive. Stubborn.”
+
+ I stare at the last word. Its own sentence, tacked on like an afterthought. Stubborn. The same word that was written in my file when I got sent from school to the facility where I met LeeLee and Jordan. Large, dark, stubborn, and condemned. I’ve never been called resource-intensive . But I have been called a waste.
+
+ And maybe that’s why I do it.
+
+ When I get to my last plant of the day, I don’t reach for the mister. This one is small, young, the green still neon-bright and the teeth at the edges still soft. I pick it up, careful with its roots, and carry it home. I find a discarded water container along the way and place it inside. When I get home I knock on LeeLee’s door. She doesn’t answer, so I leave the plant on the floor as an offering. They aren’t proper flowers, but they smell nice and earthy. It might keep the residual odor from melted organs, fur, and bones from taking over her room.
+
+ “Killing things is a dumb job,” says the girl.
+
+ After a week of hearing the death cries of its cousins, I was moved to use some of my allowance to buy cheap fertilizer and growth serum for my plant. The girl and her friends, fewer than before, were panhandling at the megastore across the way. She ran over, braids jingling, as soon as she saw me. I thought she’d leave once I gave her more glowsticks for her friends, but she stayed in step and kept following me.
+
+ “It’s not a dumb job,” I say, even though it is. 
+
+ “What’s the point?”
+
+ I shift my bag to point at the bottom of my vest. Beneath “Mercy Dept.” the department’s slogan is written in cursive: Killing to Save!  
+
+ “See?”
+
+ She sees the text but doesn’t register it, and I have to remind myself that even getting kicked out of school is a privilege. The city had decided to stop wasting educational resources on me. They’d never even tried with her or the other streetrats.
+
+ “It just means we kill to help.”
+
+ “That doesn’t make sense.”
+
+ Suddenly, all I can think about is Jordan. “Maybe they don’t mind.”
+
+ “What?”
+
+ I think of the plants. Maybe they hadn’t been pleading. Maybe they’d been sighing with relief. I think of the birds that eventually stopped running away.
+
+ “Maybe they’re tired. The city’s right, and their existence isn’t compatible with the world we made. And that’s our fault for being stupid and cruel, but it makes their lives so hard. We’ve made it so they can only live half a life. Maybe the least we can do is finish the job.”
+
+ It’s a terrible thing to say—even worse to a kid.
+
+ Her eyes go hard. “What are you killing now, executioner?”
+
+ The question surprises me. “Sewer plants. Why?”
+
+ “I don’t believe you.”
+
+ I’d wanted her to leave me alone, but when she runs away I feel suddenly empty.
+
+ I have an issue at work when I can’t find my poison vial. I tell them it rolled away in the sewer and I couldn’t catch it in time, because I don’t want to tell them I was unobservant enough to let a street kid steal from me. After a stern warning and a mountain of forms, they issue a new vial and don’t add to my service time.
+
+ Pulling overtime to make up for the day I didn’t have my poison means it’s days before I get to fertilize my houseplant. LeeLee’s door is open, so I bring in the fertilizer and serum. She’s put the plant on her windowsill, but it prefers indirect sunlight, so I move it to the shelf next to her boxes of knickknacks and trinkets. I add the fertilizer to its soil and am about to spray it with the growth serum when I get an idea. I get the mister from my kit and set it up to spray the prepping solution on the little plant to prime it. I open the window and put on my mask, just in case, but I’m sure the man was telling the truth when he called the first liquid harmless. After its cells are open, I spray it with my store-bought growth serum.
+
+ I’m halfway through making dinner when I hear the crash and run into LeeLee’s room.
+
+ “Shit!”
+
+ The plant has grown huge, turning adult instantly, and its new weight has taken down LeeLee’s shelf. Dainty keepsake boxes are shattered on our concrete floor.
+
+ I bend to my knees quickly, so focused on fixing my mistake that I don’t register the oddness of the items I’m picking up—jacks, kids’ toys, a bow—until my fingers touch something small and shimmering. It’s a scrap of silver, still rounded in the shape of the braids it was taken from.
+
+ I got rats. I can handle it.
+
+ I’d forgotten the city has more than one kind.
+
+ I’m waiting up when Lee gets home. I don’t make her tell me. I just grab her kit and rummage through it. Where my kit has a hazmat suit, hers has a stealth mesh to render her invisible. Where I keep my mister, she has a gun loaded with vials too large for rats. I have a mini-vac to suck up excess plant matter to prevent seeds from sprouting. She has zip ties.
+
+ By the time I’m done, she’s already cracking under the weight of everything she tried to protect me from. Within moments she’s sobbing on the floor. I carry her to her bed and get in beside her. I try not to listen too closely as she recounts every horrible moment, but I’m listening at the end, when she tells me she can’t do it anymore. When she confesses that she’s the one who stole my poison, and has only been waiting to take it because she didn’t have the stomach to do to me what Jordan did to us.
+
+ I tell her how we’ll make playgrounds of dead data centers and use hoses to fill the holes where skyscrapers were, and kids will play Marco Polo swimming over a CEO’s sunken office.
+
+ I leave her for just a moment, but by the time I lie back in bed beside her I’ve figured it out.
+
+ I tell her that she won’t have to take her shift tomorrow. I tell her I’m going to go around the city with my mister and my growth serum. That I’ll move plants from sewers to the yards around City Hall and every public space and the support pylons of important people’s companies, and then spray them so they become huge. The city will freak. I tell her it will be like the kittens, but this time we’ll all be pulled off our assignments to kill plants. And maybe the serum will work too well. Maybe the city was right to fear these plants, and they will grow and grow and eat our concrete while the roots crack our foundations and cut our electricity and everything will crumble. And the people with something to lose might suffer, but the rest of us will just laugh at the perfection of rubble. I tell her how we’ll make playgrounds of dead data centers and use hoses to fill the holes where skyscrapers were, and kids will play Marco Polo swimming over a CEO’s sunken office. 
+
+ She asks if I’ll put any at our old detention center.
+
+ I tell her, Hundreds .
+
+ I talk long enough that her eyes close, and loud enough that neither of us can hear the sound of my mister blowing. The man who gave it to me was right. Even without the mask, it doesn’t smell like sulfur. It doesn’t smell like anything. 
+
+ Micaiah Johnson’s debut novel, The Space Between Worlds , a Sunday Times bestseller and New York Times Editors’ Choice pick, was named one of the best books of 2020 and one of the best science fiction books of the last decade by NPR. Her first horror novel, The Unhaunting , is due out in fall 2026."
+Measles cases are rising. Other vaccine-preventable infections could be next.,https://www.technologyreview.com/2026/02/20/1133365/measles-cases-rising-vaccine-preventable-infections-mumps-hepatitis-b/,"Fri, 20 Feb 2026 10:00:00 +0000","There’s a measles outbreak happening close to where I live. Since the start of this year, 34 cases have been confirmed in Enfield, a northern borough of London. Most of those affected are children under the age of 11. One in five have needed  hospital treatment .
+
+ It’s another worrying development for an incredibly contagious and potentially fatal disease. Since October last year, 962 cases of measles have been confirmed in South Carolina. Large outbreaks (with more than 50 confirmed cases) are underway in four US states. Smaller outbreaks are being reported in another 12 states .
+
+ The vast majority of these cases have been children who were not fully vaccinated. Vaccine hesitancy is thought to be a significant reason children are missing out on important vaccines—the World Health Organization described it as one of the 10 leading threats to global health in 2019 . And if we’re seeing more measles cases now, we might expect to soon see more cases of other vaccine-preventable infections, including some that can cause liver cancer or meningitis.
+
+ Some people will always argue that measles is not a big deal —that infections used to be common, and most people survived them and did just fine. It is true that in most cases kids do recover well from the virus. But not always.
+
+ Measles symptoms tend to start with a fever and a runny nose. The telltale rash comes later. In some cases, severe complications develop. They can include pneumonia, blindness, and inflammation of the brain. Some people won’t develop complications until years later. In rare cases, the disease can be fatal.
+
+ Before the measles vaccine was introduced, in 1963, measles epidemics occurred every two to three years,  according to the WHO . Back then, around 2.6 million people died from measles every year. Since it was introduced, the measles vaccine is thought to have prevented almost 59 million deaths.
+
+ But vaccination rates have been lagging, says Anne Zink, an emergency medicine physician and clinical fellow at the Yale School of Public Health. “We’ve seen a slow decline in people who are willing to get vaccinated against measles for some time,” she says. “As we get more and more people who are at risk because they’re unvaccinated, the higher the chances that the disease can then spread and take off.”
+
+ Vaccination rates need to be at 95% to prevent measles outbreaks. But rates are well below that level in some regions. Across South Carolina, the proportion of kindergartners who received both doses of the MMR vaccine, which protects against measles as well as mumps and rubella, has  dropped steadily over the last five years , from 94% in 2020-2021 to 91% in 2024-2025. Some schools in the state have coverage rates as low as 20%, state epidemiologist Linda Bell  told reporters last month.
+
+ Vaccination rates are low in London, too. Fewer than 70% of children have received both doses of their MMR by the time they turn five, according to  the UK Health Security Agency . In some boroughs, vaccination rates are as low as 58%. So perhaps it’s not surprising we’re seeing outbreaks.
+
+ The UK is one of six countries to have  lost their measles elimination status last month, along with Spain, Austria, Armenia, Azerbaijan, and Uzbekistan. Canada  lost its elimination status last year.
+
+ The highly contagious measles could be a bellwether for other vaccine-preventable diseases. Zink is already seeing signs. She points to a case of  polio that paralyzed a man in New York in 2022. That happened when rates of polio vaccination were low, she says. “Polio is a great example of … a disease that is primarily asymptomatic, and most people don’t have any symptoms whatsoever, but for the people who do get symptoms, it can be life-threatening.”
+
+ Then there’s mumps —another disease the MMR vaccine protects against. It’s another one of those infections that can be symptom-free and harmless in some, especially children, but nasty for others. It can cause a painful swelling of the testes, and other complications include brain swelling and deafness. (From my personal experience of being hospitalized with mumps, I can attest that even “mild” infections are pretty horrible.)
+
+ Mumps is less contagious than measles, so we might expect a delay between an uptick in measles cases and the spread of mumps, says Zink. But she says that she’s more concerned about hepatitis B.
+
+ “It lives on surfaces for a long period of time, and if you’re not vaccinated against it and you’re exposed to it as a kid, you’re at a really high risk of developing liver cancer and death,” she says.
+
+ Zink was formerly chief medical officer of Alaska, a state that in the 1970s had the world’s highest rate of childhood liver cancer caused by hepatitis B. Screening and universal newborn vaccination programs  eliminated the virus’s spread .
+
+ Public health experts worry that the current US administration’s position on vaccines may contribute to the decline in vaccine uptake. Last month the US Centers for Disease Control and Prevention approved  changes to childhood vaccination recommendations . The agency no longer recommends the hepatitis B vaccine for all newborns. The chair of the CDC’s vaccine advisory panel has also  questioned broad vaccine recommendations for polio .
+
+ Even vitamin injections are being refused by parents, says Zink. A shot of vitamin K at birth can help prevent severe bleeding in some babies. But  recent research suggests that parents of 5% of newborns are refusing it (up from 2.9% in 2017).
+
+ “I can’t tell you how many of my pediatric [doctor] friends have told me about having to care for a kiddo in the ICU with … bleeding into their brain because the kid didn’t get vitamin K at birth,” says Zink. “And that can kill kids, [or have] lifelong, devastating, stroke-like symptoms.”
+
+ All this paints a pretty bleak picture for children’s health. But things can change. Vaccination can still offer protection to plenty of people at risk of infection. South Carolina’s Department of Public Health is offering  free MMR vaccinations to residents at mobile clinics.
+
+ “It’s easy to think ‘It’s not going to be me,’” says Zink. “Seeing kiddos who don’t have the agency to make decisions [about vaccination] being so sick from vaccine-preventable diseases, to me, is one of the most challenging things of practicing medicine.”
+
+ This article first appeared in The Checkup,  MIT Technology Review’s  weekly biotech newsletter. To receive it in your inbox every Thursday, and read articles like this first,  sign up here ."
+Microsoft has a new plan to prove what’s real and what’s AI online,https://www.technologyreview.com/2026/02/19/1133360/microsoft-has-a-new-plan-to-prove-whats-real-and-whats-ai-online/,"Thu, 19 Feb 2026 16:00:00 +0000","AI-enabled deception now permeates our online lives. There are the high-profile cases you may easily spot, like when White House officials recently shared a manipulated image of a protester in Minnesota and then mocked those asking about it. Other times, it slips quietly into social media feeds and racks up views, like the videos that Russian influence campaigns are currently spreading to discourage Ukrainians from enlisting. 
+
+ It is into this mess that Microsoft has put forward a blueprint , shared with MIT Technology Review , for how to prove what’s real online. 
+
+ An AI safety research team at the company recently evaluated how methods for documenting digital manipulation are faring against today’s most worrying AI developments, like interactive deepfakes and widely accessible hyperrealistic models. It then recommended technical standards that can be adopted by AI companies and social media platforms.
+
+ To understand the gold standard that Microsoft is pushing, imagine you have a Rembrandt painting and you are trying to document its authenticity. You might describe its provenance with a detailed manifest of where the painting came from and all the times it changed hands. You might apply a watermark that would be invisible to humans but readable by a machine. And you could digitally scan the painting and generate a mathematical signature, like a fingerprint , based on the brush strokes. If you showed the piece at a museum, a skeptical visitor could then examine these proofs to verify that it’s an original.
+
+ All of these methods are already being used to varying degrees in the effort to vet content online. Microsoft evaluated 60 different combinations of them, modeling how each setup would hold up under different failure scenarios—from metadata being stripped to content being slightly altered or deliberately manipulated. The team then mapped which combinations produce sound results that platforms can confidently show to people online, and which ones are so unreliable that they may cause more confusion than clarification. 
+
+ The company’s chief scientific officer, Eric Horvitz, says the work was prompted by legislation—like California’s AI Transparency Act, which will take effect in August—and the speed at which AI has developed to combine video and voice with striking fidelity.
+
+ “You might call this self-regulation,” Horvitz told MIT Technology Review . But it’s clear he sees pursuing the work as boosting Microsoft’s image: “We’re also trying to be a selected, desired provider to people who want to know what’s going on in the world.”
+
+ Nevertheless, Horvitz declined to commit to Microsoft using its own recommendation across its platforms. The company sits at the center of a giant AI content ecosystem: It runs Copilot, which can generate images and text; it operates Azure, the cloud service through which customers can access OpenAI and other major AI models; it owns LinkedIn, one of the world’s largest professional platforms; and it holds a significant stake in OpenAI. But when asked about in-house implementation, Horvitz said in a statement, “Product groups and leaders across the company were involved in this study to inform product road maps and infrastructure, and our engineering teams are taking action on the report’s findings.”
+
+ It’s important to note that there are inherent limits to these tools; just as they would not tell you what your Rembrandt means , they are not built to determine if content is accurate or not. They only reveal if it has been manipulated. It’s a point that Horvitz says he has to make to lawmakers and others who are skeptical of Big Tech as an arbiter of fact.
+
+ “It’s not about making any decisions about what’s true and not true,” he said. “It’s about coming up with labels that just tell folks where stuff came from.”
+
+ Hany Farid, a professor at UC Berkeley who specializes in digital forensics but wasn’t involved in the Microsoft research, says that if the industry adopted the company’s blueprint, it would be meaningfully more difficult to deceive the public with manipulated content. Sophisticated individuals or governments can work to bypass such tools, he says, but the new standard could eliminate a significant portion of misleading material.
+
+ “I don’t think it solves the problem, but I think it takes a nice big chunk out of it,” he says.
+
+ Still, there are reasons to see Microsoft’s approach as an example of somewhat naïve techno-optimism. There is growing evidence that people are swayed by AI-generated content even when they know that it is false. And in a recent study of pro-Russian AI-generated videos about the war in Ukraine, comments pointing out that the videos were made with AI received far less engagement than comments treating them as genuine. 
+
+ “Are there people who, no matter what you tell them, are going to believe what they believe?” Farid asks. “Yes.” But, he adds, “there are a vast majority of Americans and citizens around the world who I do think want to know the truth.”
+
+ That desire has not exactly led to urgent action from tech companies. Google started adding a watermark to content generated by its AI tools in 2023, which Farid says has been helpful in his investigations. Some platforms use C2PA , a provenance standard Microsoft helped launch in 2021. But the full suite of changes that Microsoft suggests, powerful as they are, might remain only suggestions if they threaten the business models of AI companies or social media platforms.
+
+ “If the Mark Zuckerbergs and the Elon Musks of the world think that putting ‘AI generated’ labels on something will reduce engagement, then of course they’re incentivized not to do it,” Farid says. Platforms like Meta and Google have already said they’d include labels for AI-generated content, but an audit conducted by Indicator last year found that only 30% of its test posts on Instagram, LinkedIn, Pinterest, TikTok, and YouTube were correctly labeled as AI-generated.
+
+ More forceful moves toward content verification might come from the many pieces of AI regulation pending around the world. The European Union’s AI Act, as well as proposed rules in India and elsewhere, would all compel AI companies to require some form of disclosure that a piece of content was generated with AI. 
+
+ One priority from Microsoft is, unsurprisingly, to play a role in shaping these rules. The company waged a lobbying effort during the drafting of California’s AI Transparency Act, which Horvitz said made the legislation’s requirements on how tech companies must disclose AI-generated content “a bit more realistic.”
+
+ But another is a very real concern about what could happen if the rollout of such content-verification technology is done poorly. Lawmakers are demanding tools that can verify what’s real, but the tools are fragile. If labeling systems are rushed out, inconsistently applied, or frequently wrong, people could come to distrust them altogether, and the entire effort would backfire. That’s why the researchers argue that it may be better in some cases to show nothing at all than a verdict that could be wrong.
+
+ Inadequate tools could also create new avenues for what the researchers call sociotechnical attacks. Imagine that someone takes a real image of a fraught political event and uses an AI tool to change only an inconsequential share of pixels in the image. When it spreads online, it could be misleadingly classified by platforms as AI-manipulated. But combining provenance and watermark tools would mean platforms could clarify that the content was only partially AI generated, and point out where the changes were made.
+
+ California’s AI Transparency Act will be the first major test of these tools in the US, but enforcement could be challenged by President Trump’s executive order from late last year seeking to curtail state AI regulations that are “burdensome” to the industry. The administration has also generally taken a posture against efforts to curb disinformation, and last year, via DOGE, it canceled grants related to misinformation. And, of course, official government channels in the Trump administration have shared content manipulated with AI ( MIT Technology Review reported that the Department of Homeland Security, for example, uses video generators from Google and Adobe to make content it shares with the public).
+
+ I asked Horvitz whether fake content from this source worries him as much as that coming from the rest of social media. He initially declined to comment, but then he said, “Governments have not been outside the sectors that have been behind various kinds of manipulative disinformation, and this is worldwide.”"
+"The Download: autonomous narco submarines, and virtue signaling chatbots",https://www.technologyreview.com/2026/02/19/1133339/the-download-autonomous-narco-submarines-and-virtue-signaling-chatbots/,"Thu, 19 Feb 2026 13:10:00 +0000","This is today’s edition of  The Download ,  our weekday newsletter that provides a daily dose of what’s going on in the world of technology.
+
+ How uncrewed narco subs could transform the Colombian drug trade
+
+ For decades, handmade narco subs have been some of the cocaine trade’s most elusive and productive workhorses, ferrying multi-ton loads of illicit drugs from Colombian estuaries toward markets in North America and, increasingly, the rest of the world. Now off-the-shelf technology—Starlink terminals, plug-and-play nautical autopilots, high-resolution video cameras—may be advancing that cat-and-mouse game into a new phase.
+
+Uncrewed subs could move more cocaine over longer distances, and they wouldn’t put human smugglers at risk of capture. And law enforcement around the world is just beginning to grapple with what this means for the future. Read the full story .
+
+ —Eduardo Echeverri López
+
+ This story is from the next print issue of MIT Technology Review magazine, which is all about crime. If you haven’t already, subscribe now to receive future issues once they land.
+
+  Google DeepMind wants to know if chatbots are just virtue signaling
+
+ The news: Google DeepMind is calling for the moral behavior of large language models—such as what they do when called on to act as companions, therapists, medical advisors, and so on—to be scrutinized with the same kind of rigor as their ability to code or do math.
+
+ Why it matters: As LLMs improve, people are asking them to play more and more sensitive roles in their lives. Agents are starting to take actions on people’s behalf. LLMs may be able to influence human decision-making. And yet nobody knows how trustworthy this technology really is at such tasks. Read the full story .
+
+ —Will Douglas Heaven
+
+ The building legal case for global climate justice
+
+ The United States and the European Union grew into economic superpowers by committing climate atrocities. They have burned a wildly disproportionate share of the world’s oil and gas, planting carbon time bombs that will detonate first in the poorest, hottest parts of the globe.
+
+Morally, there’s an ironclad case that the countries or companies responsible for this mess should provide compensation. Legally, though, the case has been far harder to make. But now those tides might be turning. Read the full story .
+
+ —James Temple
+
+ This article is from The Spark, MIT Technology Review ’s weekly climate newsletter. To receive it in your inbox every Wednesday, sign up here .
+
+ The must-reads
+
+ I’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about technology.
+
+ 1 The US is building an online portal to access content banned elsewhere 
+The freedom.gov site is Washington’s broadbrush solution to global censorship. ( Reuters )
++ The Trump administration is on a mission to train a cadre of elite coders. ( FT $)
+
+ 2 Mark Zuckerberg overruled wellbeing experts to keep beauty filters on Instagram
+ Because removing them may have impinged on “free expression,” apparently. ( FT $)+ The CEO claims that increasing engagement is not Instagram’s goal. ( CNBC )
++ Instead, the company’s true calling is to give its users “something useful”. ( WSJ $)
++ A new investigation found Meta is failing to protect children from predators. ( WP $)
+
+ 3 Silicon Valley is working on a shadow power grid for US data centers
+AI firms are planning to build their own private power plants across the US. ( WP $)
++ They’re pushing the narrative that generative AI will save the Earth. ( Wired $)
++ We need better metrics to measure data center sustainability with. ( IEEE Spectrum )
++ The data center boom in the desert. ( MIT Technology Review )
+
+ 4 Russian forces are struggling with Starlink and Telegram crackdowns
+New restrictions have left troops without a means to communicate. ( Bloomberg $)
+
+5 Bill Gates won’t speak at India’s AI summit after all
+Given the growing controversy surrounding his ties to Jeffrey Epstein. ( BBC )
++ The event has been accused of being disorganized and poorly managed. ( Reuters )
++ AI leaders didn’t appreciate this awkward photoshoot. ( Bloomberg $)
+
+ 6 AI software sales are slowing down
+ Last year’s boom appears to be waning, vendors have warned. ( WSJ $)
++ What even is the AI bubble? ( MIT Technology Review )
+
+ 7 eBay has acquired its clothes resale rival Depop
+ It’s a naked play to corner younger Gen Z shoppers. ( NYT $)
+
+ 8 There’s a lot more going on inside cells than we originally thought
+It’s seriously crowded inside there. ( Quanta Magazine )
+
+ 9 What it means to create a chart-topping app
+Does anyone care any more? ( The Verge )
+
+ 10 Do we really need eight hours of sleep?
+Research suggests some people really are fine operating on as little as four hours of snooze time. ( New Yorker $)
+
+ Quote of the day
+
+ “Too often, those victims have been left to fight alone…That is not justice. It is failure.”
+
+ —Keir Starmer, the UK’s prime minister, outlines plans to force technology firms to remove deepfake nudes and revenge porn within 48 hours or risk being blocked in the UK, the Guardian reports.
+
+ One more thing
+
+ End of life decisions are difficult and distressing. Could AI help?
+
+ End-of-life decisions can be extremely upsetting for surrogates—the people who have to make those calls on behalf of another person. Friends or family members may disagree over what’s best for their loved one, which can lead to distressing situations.
+
+David Wendler, a bioethicist at the US National Institutes of Health, and his colleagues have been working on an idea for something that could make things easier: an artificial intelligence-based tool that can help surrogates predict what the patients themselves would want in any given situation.
+
+Wendler hopes to start building their tool as soon as they secure funding for it, potentially in the coming months. But rolling it out won’t be simple. Critics wonder how such a tool can ethically be trained on a person’s data, and whether life-or-death decisions should ever be entrusted to AI. Read the full story .
+
+ —Jessica Hamzelou
+
+ We can still have nice things
+
+ A place for comfort, fun and distraction to brighten up your day. (Got any ideas? Drop me a line or skeet ’em at me .)
+
+ + Oakland Library keeps a remarkable public log of all the weird and wonderful artefacts their librarians find tucked away in the pages of their books.
++ Orchids are beautiful, but temperamental. Here’s how to keep them alive .
++ I love that New York’s Transit Museum is holding a Pizza Rat Debunked event.
++ These British indie bands aren’t really lauded at home—but in China, they’re treated like royalty ."
+How uncrewed narco subs could transform the Colombian drug trade,https://www.technologyreview.com/2026/02/19/1132619/uncrewed-narco-subs-transform-columbian-drug-trade/,"Thu, 19 Feb 2026 11:00:00 +0000","On a bright morning last April, a surveillance plane operated by the Colombian military spotted a 40-foot-long shark-like silhouette idling in the ocean just off Tayrona National Park. It was, unmistakably, a “narco sub,” a stealthy fiberglass vessel that sails with its hull almost entirely underwater, used by drug cartels to move cocaine north. The plane’s crew radioed it in, and eventually nearby coast guard boats got the order, routine but urgent: Intercept.
+
+ In Cartagena, about 150 miles from the action, Captain Jaime González Zamudio, commander of the regional coast guard group, sat down at his desk to watch what happened next. On his computer monitor, icons representing his patrol boats raced toward the sub’s coordinates as updates crackled over his radio from the crews at sea. This was all standard; Colombia is the world’s largest producer of cocaine, and its navy has been seizing narco subs for decades. And so the captain was pretty sure what the outcome would be. His crew would catch up to the sub, just a bit of it showing above the water’s surface. They’d bring it to heel, board it, and force open the hatch to find two, three, maybe four exhausted men suffocating in a mix of diesel fumes and humidity, and a cargo compartment holding several tons of cocaine.
+
+ The boats caught up to the sub. A crew boarded, forced open the hatch, and confirmed that the vessel was secure. But from that point on, things were different.
+
+ First, some unexpected details came over the radio: There was no cocaine on board. Neither was there a crew, nor a helm, nor even enough room for a person to lie down. Instead, inside the hull the crew found a fuel tank, an autopilot system and control electronics, and a remotely monitored security camera. González Zamudio’s crew started sending pictures back to Cartagena: Bolted to the hull was another camera, as well as two plastic rectangles, each about the size of a cookie sheet—antennas for connecting to Starlink satellite internet.
+
+ The authorities towed the boat back to Cartagena, where military techs took a closer look. Weeks later, they came to an unsettling conclusion: This was Colombia’s first confirmed uncrewed narco sub. It could be operated by remote control, but it was also capable of some degree of autonomous travel. The techs concluded that the sub was likely a prototype built by the Clan del Golfo, a powerful criminal group that operates along the Caribbean coast.
+
+ For decades, handmade narco subs have been some of the cocaine trade’s most elusive and productive workhorses, ferrying multi-ton loads of illicit drugs from Colombian estuaries toward markets in North America and, increasingly, the rest of the world. Now off-the-shelf technology—Starlink terminals, plug-and-play nautical autopilots, high-resolution video cameras—may be advancing that cat-and-mouse game into a new phase.
+
+ Uncrewed subs could move more cocaine over longer distances, and they wouldn’t put human smugglers at risk of capture. Law enforcement around the world is just beginning to grapple with what the Tayrona sub means for the future—whether it was merely an isolated experiment or the opening move in a new era of autonomous drug smuggling at sea.
+
+ Drug traffickers love the ocean. “You can move drug traffic through legal and illegal routes,” says Juan Pablo Serrano, a captain in the Colombian navy and head of the operational coordination center for Orión, a multiagency, multinational counternarcotics effort. The giant container ships at the heart of global commerce offer a favorite approach, Serrano says. Bribe a chain of dockworkers and inspectors, hide a load in one of thousands of cargo boxes, and put it on a totally legal commercial vessel headed to Europe or North America. That route is slow and expensive—involving months of transit and bribes spread across a wide network—but relatively low risk. “A ship can carry 5,000 containers. Good luck finding the right one,” he says.
+
+ Far less legal, but much faster and cheaper, are small, powerful motorboats. Quick to build and cheap to crew, these “go-fasts” top out at just under 50 feet long and can move smaller loads in hours rather than days. But they’re also easy for coastal radars and patrols to spot.
+
+ Submersibles—or, more accurately, “semisubmersibles”—fit somewhere in the middle. They take more money and engineering to build than an open speedboat, but they buy stealth—even if a bit of the vessel rides at the surface, the bulk stays hidden underwater. That adds another option to a portfolio that smugglers constantly rebalance across three variables: risk, time, and cost. When US and Colombian authorities tightened control over air routes and commercial shipping in the early 1990s, subs became more attractive. The first ones were crude wooden hulls with a fiberglass shell and extra fuel tanks, cobbled together in mangrove estuaries, hidden from prying eyes. Today’s fiberglass semisubmersible designs ride mostly below the surface, relying on diesel engines that can push multi-ton loads for days at a time while presenting little more than a ripple and a hot exhaust pipe to radar and infrared sensors.
+
+ A typical semisubmersible costs under $2 million to build and can carry three metric tons of cocaine. That’s worth over $160 million in Europe—wholesale.
+
+ Most ferry between South American coasts and handoff points in Central America and Mexico, where allied criminal organizations break up the cargo and slowly funnel it toward the US. But some now go much farther. In 2019, Spanish authorities intercepted a semisubmersible after a 27-day transatlantic voyage from Brazil. In 2024, police in the Solomon Islands found the first narco sub in the Asia-Pacific region, a semisubmersible probably originating from Colombia on its way to Australia or New Zealand.
+
+ If the variables are risk, time, and cost, then the economics of a narco sub are simple. Even if they spend more time on the water than a powerboat, they’re less likely to get caught—and a relative bargain to produce. A narco sub might cost between $1 million and $2 million to build, but a kilo of cocaine costs just about $500 to make. “By the time that kilo reaches Europe, it can sell for between $44,000 and $55,000,” Serrano says. A typical semisubmersible carries up to three metric tons—cargo worth well over $160 million at European wholesale prices.
+
+ Off-the-shelf nautical autopilots, WiFi antennas, Starlink satellite internet connections, and remote cameras are all drug smugglers need to turn semisubmersibles into drone ships.
+
+ As a result, narco subs are getting more common. Seizures by authorities tripled in the last 20 years, according to Colombia’s International Center for Research and Analysis Against Maritime Drug Trafficking (CMCON), and Serrano admits that the Orión alliance has enough ships and aircraft to catch only a fraction of what sails.
+
+ Until now, though, narco subs have had one major flaw: They depended on people, usually poor fishermen or low-level recruits sealed into stifling compartments for days at a time, steering by GPS and sight, hoping not to be spotted. That made the subs expensive and a risk to drug sellers if captured. Like good capitalists, the Tayrona boat’s builders seem to have been trying to obviate labor costs with automation. No crew means more room for drugs or fuel and no sailors to pay—or to get arrested or flip if a mission goes wrong.
+
+ “If you don’t have a person or people on board, that makes the transoceanic routes much more feasible,” says Henry Shuldiner, a researcher at InSight Crime who has analyzed hundreds of narco-sub cases. It’s one thing, he notes, to persuade someone to spend a day or two going from Colombia to Panama for a big payout; it’s another to ask four people to spend three weeks sealed inside a cramped tube, sleeping, eating, and relieving themselves in the same space. “That’s a hard sell,” Shuldiner says.
+
+ An uncrewed sub doesn’t have to race to a rendezvous because its crew can endure only a few days inside. It can move more slowly and stealthily. It can wait out patrols or bad weather, loiter near a meeting point, or take longer and less well-monitored routes. And if something goes wrong—if a military plane appears or navigation fails—its owners can simply scuttle the vessel from afar.
+
+ Meanwhile, the basic technology to make all that work is getting more and more affordable, and the potential profit margins are rising. “The rapidly approaching universality of autonomous technology could be a nightmare for the U.S. Coast Guard,” wrote two Coast Guard officers in the US Naval Institute’s journal Proceedings in 2021. And as if to prove how good an idea drone narco subs are, the US Marine Corps and the weapons builder Leidos are testing a low-profile uncrewed vessel called the Sea Specter, which they describe as being “inspired” by narco-sub design.
+
+ The possibility that drug smugglers are experimenting with autonomous subs isn’t just theoretical. Law enforcement agencies on other smuggling routes have found signs the Tayrona sub isn’t an isolated case. In 2022, Spanish police seized three small submersible drones near Cádiz, on Spain’s southern coast. Two years later, Italian authorities confiscated a remote-­controlled minisubmarine they believed was intended for drug runs. “The probability of expansion is high,” says Diego Cánovas, a port and maritime security expert in Spain. Tayrona, the biggest and most technologically advanced uncrewed narco sub found so far, is more likely a preview than an anomaly.
+
+ Today, the Tayrona semisubmersible sits on a strip of grass at the ARC Bolívar naval base in Cartagena. It’s exposed to the elements; rain has streaked its paint. To one side lies an older, bulkier narco sub seized a decade ago, a blue cylinder with a clumsy profile. The Tayrona’s hull looks lower, leaner, and more refined.
+
+ Up close, it is also unmistakably handmade. The hull is a dull gray-blue, the fiberglass rough in places, with scrapes and dents from the tow that brought it into port. It has no identifying marks on the exterior—nothing that would tie it to a country, a company, or a port. On the upper surface sit the two Starlink antennas, painted over in the same gray-blue to keep them from standing out against the sea.
+
+ I climb up a ladder and drop through the small hatch near the stern. Inside, the air is damp and close, the walls beaded with condensation. Small puddles of fuel have collected in the bilge. The vessel has no seating, no helm or steering wheel, and not enough space to stand up straight or lie down. It’s clear it was never meant to carry people. A technical report by CMCON found that the sub would have enough fuel for a journey of some 800 nautical miles, and the central cargo bay would hold between 1 and 1.5 tons of cocaine.
+
+ At the aft end, the machinery compartment is a tangle of hardware: diesel engine, batteries, pumps, and a chaotic bundle of cables feeding an electronics rack. All the core components are still there. Inside that rack, investigators identified a NAC-3 autopilot processor, a commercial unit designed to steer midsize boats by tying into standard hydraulic pumps, heading sensors, and rudder-­feedback systems. They cost about $2,200 on Amazon.
+
+ “These are plug-and-play technologies,” says Wilmar Martínez, a mechatronics professor at the University of America in Bogotá, when I show him pictures of the inside of the sub. “Midcareer mechatronics students could install them.”
+
+ For all its advantages, an autonomous drug-smuggling submarine wouldn’t be invincible. Even without a crew on board, there are still people in the chain. Every satellite internet terminal—Starlink or not—comes with a billing address, a payment method, and a log of where and when it pings the constellation. Colombian officers have begun to talk about negotiating formal agreements with providers, asking them to alert authorities when a transceiver’s movements match known smuggling patterns. Brazil’s government has already cut a deal with Starlink to curb criminal use of its service in the Amazon.
+
+ The basic playbook for finding a drone sub will look much like the one for crewed semisubmersibles. Aircraft and ships will use radar to pick out small anomalies and infrared cameras to look for the heat of a diesel engine or the turbulence of a wake. That said, it might not work. “If they wind up being smaller, they’re going to be darn near impossible to detect,” says Michael Knickerbocker, a former US Navy officer who advises defense tech firms.
+
+ Autonomous drug subs are “a great example of how resilient cocaine traffickers are, and how they’re continuously one step ahead of authorities,” says one researcher.
+
+ Even worse, navies already act on only a fraction of their intelligence leads because they don’t have enough ships and aircraft. The answer, Knickerbocker argues, is “robot on robot.” Navies and coast guards will need swarms of their own small, relatively cheap uncrewed systems—surface vessels, underwater gliders, and long-endurance aerial vehicles that can loiter, sense, and relay data back to human operators. Those experiments have already begun. The US 4th Fleet, which covers Latin America and the Caribbean, is experimenting with uncrewed platforms in counternarcotics patrols. Across the Atlantic, the European Union’s European Maritime Safety Agency operates drones for maritime surveillance.
+
+ Today, though, the major screens against oceangoing vessels of all kinds are coastal radar networks. Spain operates SIVE to watch over choke points like the Strait of Gibraltar, and in the Pacific, Australia’s over-the-horizon radar network, JORN, can spot objects hundreds of miles away, far beyond the range of conventional radar.
+
+ Even so, it’s not enough to just spot an uncrewed narco sub. Law enforcement also has to stop it—and that will be tricky.
+
+ To find drone subs, international law enforcement will likely have to rely on networks of surveillance systems and, someday, swarms of their own drones. CARLOS PARRA RIOS
+
+ With a crewed vessel, Colombian doctrine says coast guard units should try to hail the boat first with lights, sirens, radio calls, and warning shots. If that fails, interceptor crews sometimes have to jump aboard and force the hatch. Officers worry that future autonomous craft could be wired to sink or even explode if someone gets too close. “If they get destroyed, we may lose the evidence,” says Víctor González Badrán, a navy captain and director of CMCON. “That means no seizure and no legal proceedings against that organization.” 
+
+ That’s where electronic warfare enters the picture—radio-frequency jamming, cyber tools, perhaps more exotic options. In the simplest version, jamming means flooding the receiver with noise so that commands from the operator never reach the vessel. Spoofing goes a step further, feeding fake signals so that the sub thinks it’s somewhere else or obediently follows a fake set of waypoints. Cyber tools might aim higher up the chain, trying to penetrate the software that runs the vessel or the networks it uses to talk to satellite constellations. At the cutting edge of these countermeasures are electromagnetic pulses designed to fry electronics outright, turning a million-dollar narco sub into a dead hull drifting at sea.
+
+ In reality, the tools that might catch a future Tayrona sub are unevenly distributed, politically sensitive, and often experimental. Powerful cyber or electromagnetic tricks are closely guarded secrets; using them in a drug case risks exposing capabilities that militaries would rather reserve for wars. Systems like Australia’s JORN radar are tightly held national security assets, their exact performance specs classified, and sharing raw data with countries on the front lines of the cocaine trade would inevitably mean revealing hints as to how they got it. “Just because a capability exists doesn’t mean you employ it,” Knickerbocker says. 
+
+ Analysts don’t think uncrewed narco subs will reshape the global drug trade, despite the technological leap. Trafficking organizations will still hedge their bets across those three variables, hiding cocaine in shipping containers, dissolving it into liquids and paints, racing it north in fast boats. “I don’t think this is revolutionary,” Shuldiner says. “But it’s a great example of how resilient cocaine traffickers are, and how they’re continuously one step ahead of authorities.”
+
+ There’s still that chance, though, that everything international law enforcement agencies know about drug smuggling is about to change. González Zamudio says he keeps getting requests from foreign navies, coast guards, and security agencies to come see the Tayrona sub. He greets their delegations, takes them out to the strip of grass on the base, and walks them around it, gives them tours. It has become a kind of pilgrimage. Everyone who makes it worries that the next time a narco sub appears near a distant coastline, they’ll board it as usual, force the hatch—and find it full of cocaine and gadgets, but without a single human occupant. And no one knows what happens after that. 
+
+ Eduardo Echeverri López is a journalist based in Colombia."
+The building legal case for global climate justice,https://www.technologyreview.com/2026/02/19/1132877/legal-climate-justice/,"Thu, 19 Feb 2026 11:00:00 +0000","The United States and the European Union grew into economic superpowers by committing climate atrocities. They have burned a wildly disproportionate share of the world’s oil and gas, planting carbon time bombs that will detonate first in the poorest, hottest parts of the globe. 
+
+ Meanwhile, places like the Solomon Islands and Chad—low-lying or just plain sweltering—have emitted relatively little carbon dioxide , but by dint of their latitude and history, they rank among the countries most vulnerable to the fiercest consequences of global warming. That means increasingly devastating cyclones , heat waves, famines, and floods.
+
+ Morally, there’s an ironclad case that the countries or companies responsible for this mess should provide compensation for the homes that will be destroyed, the shorelines that will disappear beneath rising seas, and the lives that will be cut short. By one estimate, the major economies owe a climate debt to the rest of the world approaching $200 trillion in reparations .
+
+ Legally, though, the case has been far harder to make. Even putting aside the jurisdictional problems, early climate science couldn’t trace the provenance of airborne molecules of carbon dioxide across oceans and years. Deep-pocketed corporations with top-tier legal teams easily exploited those difficulties. 
+
+ Now those tides might be turning. More climate-related lawsuits are getting filed, particularly in the Global South. Governments , nonprofits, and citizens in the most climate-exposed nations continue to test new legal arguments in new courts, and some of those courts are showing a new willingness to put nations and their industries on the hook as a matter of human rights. In addition, the science of figuring out exactly who is to blame for specific weather disasters, and to what degree, is getting better and better. 
+
+ It’s true that no court has yet held any climate emitter liable for climate-related damages. For starters, nations are generally immune from lawsuits originating in other countries. That’s why most cases have focused on major carbon producers. But they’ve leaned on a pretty powerful defense. 
+
+ While oil and gas companies extract, refine, and sell the world’s fossil fuels, most of the emissions come out of “the vehicles, power plants, and factories that burn the fuel,” as Michael Gerrard and Jessica Wentz, of Columbia Law School’s Sabin Center, note in a recent piece in Nature . In other words, companies just dig the stuff up. It’s not their fault someone else sets it on fire.
+
+ So victims of extreme weather events continue to try new legal avenues and approaches, backed by ever-more-convincing science. Plaintiffs in the Philippines recently sued the oil giant Shell over its role in driving Super Typhoon Odette, a 2021 storm that killed more than 400 people and displaced nearly 800,000. The case relies partially on an attribution study that found climate change made extreme rainfall like that seen in Odette twice as likely. 
+
+ IVAN JOESEFF GUIWANON/GREENPEACE
+
+ Overall, evidence of corporate culpability—linking a specific company’s fossil fuel to a specific disaster—is getting easier to find. For example, a study published in Nature in September was able to determine how much particular companies contributed to a series of 21st-century heat waves.
+
+ A number of recent legal decisions signal improving odds for these kinds of suits. Notably, a handful of determinations in climate cases before the European Court of Human Rights affirmed that states have legal obligations to protect people from the effects of climate change. And though it dismissed the case of a Peruvian farmer who sued a German power company over fears that a melting alpine glacier could destroy his property, a German court determined that major carbon polluters could in principle be found liable for climate damages tied to their emissions. 
+
+ At least one lawsuit has already emerged that could test that principle: Dozens of Pakistani farmers whose land was deluged during the massive flooding events of 2022 have sued a pair of major German power and cement companies.
+
+ Even if the lawsuit fails, that would be a problem with the system, not the science. Major carbon-polluting countries and companies have a disproportionate responsibility for climate-change-powered disasters. 
+
+ Wealthy nations continued to encourage business practices that pollute the atmosphere, even as the threat of climate change grew increasingly grave. And oil and gas companies remain the kingpin suppliers to a fossil-fuel-addicted world. They have operated with the full knowledge of the massive social, environmental, and human cost imposed by their business while lobbying fiercely against any rules that would force them to pay for those harms or clean up their act. 
+
+ They did it. They knew. In a civil society where rule of law matters, they should pay the price. 
+
+ This article is from The Spark,  MIT Technology Review ’s weekly climate newsletter. To receive it in your inbox every Wednesday,  sign up here ."
+What it takes to make agentic AI work in retail,https://www.technologyreview.com/2026/02/19/1133324/what-it-takes-to-make-agentic-ai-work-in-retail/,"Thu, 19 Feb 2026 08:54:41 +0000","Thank you for joining us on the “Enterprise AI hub.”
+
+ In this episode of the Infosys Knowledge Institute Podcast, Dylan Cosper speaks with Prasad Banala, director of software engineering at a large US-based retail organization, about operationalizing agentic AI across the software development lifecycle. Prasad explains how his team applies AI to validate requirements, generate and analyze test cases, and accelerate issue resolution, while maintaining strict governance, human-in-the-loop review, and measurable quality outcomes.
+
+ Click here to continue."
+From integration chaos to digital clarity: Nutrien Ag Solutions’ post-acquisition reset,https://www.technologyreview.com/2026/02/19/1133320/from-integration-chaos-to-digital-clarity-nutrien-ag-solutions-post-acquisition-reset/,"Thu, 19 Feb 2026 08:48:53 +0000","Thank you for joining us on the “Enterprise AI hub.”
+
+ In this episode of the Infosys Knowledge Institute Podcast, Dylan Cosper speaks with Sriram Kalyan, head of applications and data at Nutrien Ag Solutions, Australia, about turning a high-risk post-acquisition IT landscape into a scalable digital foundation. Sriram shares how the merger of two major Australian agricultural companies created duplicated systems, fragile integrations, and operational risk, compounded by the sudden loss of key platform experts and partners. He explains how leadership alignment, disciplined platform consolidation, and a clear focus on business outcomes transformed integration from an invisible liability into a strategic enabler, positioning Nutrien Ag Solutions for future growth, cloud transformation, and enterprise scale.
+
+ Click here to continue."
