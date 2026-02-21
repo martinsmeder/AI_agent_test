@@ -4,7 +4,7 @@ import re
 from urllib.request import Request, urlopen
 from xml.etree import ElementTree as ET
 
-FEED_URL = "https://www.technologyreview.com/feed/"
+FEED_URL = "https://www.technologyreview.com/topic/artificial-intelligence/feed/"
 USER_AGENT = "Mozilla/5.0 (compatible; DataGatherer/1.0; +https://example.local)"
 REQUEST_TIMEOUT_SECONDS = 30
 
