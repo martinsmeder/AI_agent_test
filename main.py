@@ -5,6 +5,7 @@ import sys
 from pathlib import Path
 
 import andon_labs_scraper
+import openalex_scraper
 import technologyreview_scraper
 
 OUTPUT_DIR = Path("output")
@@ -12,6 +13,7 @@ OUTPUT_DIR = Path("output")
 SCRAPERS = [
     andon_labs_scraper,
     technologyreview_scraper,
+    openalex_scraper,
 ]
 
 
