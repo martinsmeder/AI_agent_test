@@ -1,12 +1,15 @@
 #!/usr/bin/env python3
 import html
 import re
+from datetime import date, timedelta
+from email.utils import parsedate_to_datetime
 from urllib.request import Request, urlopen
 from xml.etree import ElementTree as ET
 
 FEED_URL = "https://www.technologyreview.com/topic/artificial-intelligence/feed/"
 USER_AGENT = "Mozilla/5.0 (compatible; DataGatherer/1.0; +https://example.local)"
 REQUEST_TIMEOUT_SECONDS = 30
+WINDOW_DAYS = 7
 
 OUTPUT_BASENAME = "technologyreview_feed"
 FIELDS = ["title", "url", "date", "content"]
@@ -27,6 +30,21 @@ def _clean_text(text: str) -> str:
     text = re.sub(r"[ \t]{2,}", " ", text)
     text = re.sub(r"\n{3,}", "\n\n", text)
     return text.strip()
+
+
+def _in_last_window(pub_date_text: str) -> bool:
+    if not pub_date_text:
+        return False
+
+    try:
+        pub_dt = parsedate_to_datetime(pub_date_text)
+    except (TypeError, ValueError):
+        return False
+
+    pub_day = pub_dt.date()
+    end_day = date.today()
+    start_day = end_day - timedelta(days=WINDOW_DAYS - 1)
+    return start_day <= pub_day <= end_day
 
 
 def run() -> list[dict[str, str]]:
@@ -50,7 +68,7 @@ def run() -> list[dict[str, str]]:
 
         content = _clean_text(raw_content)
 
-        if not title or not url:
+        if not title or not url or not _in_last_window(date):
             continue
 
         records.append(
@@ -65,5 +83,5 @@ def run() -> list[dict[str, str]]:
     if not records:
         raise RuntimeError("No entries found in Technology Review RSS feed.")
 
-    print(f"[technologyreview] Parsed {len(records)} feed items")
+    print(f"[technologyreview] Parsed {len(records)} feed items from last {WINDOW_DAYS} days")
     return records

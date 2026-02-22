@@ -2,13 +2,13 @@
 import html
 import json
 import re
+from datetime import date, timedelta
 from urllib.parse import urlencode
 from urllib.request import Request, urlopen
 
 OPENALEX_API_URL = "https://api.openalex.org/works"
 SEARCH_QUERY = "artificial intelligence"
-FROM_PUBLICATION_DATE = "2025-12-01"
-TO_PUBLICATION_DATE = "2026-02-20"
+WINDOW_DAYS = 7
 MAX_RESULTS = 200
 
 USER_AGENT = "Mozilla/5.0 (compatible; DataGatherer/1.0; +https://example.local)"
@@ -25,11 +25,13 @@ def _clean_text(text: str) -> str:
 
 
 def _build_url() -> str:
+    end_date = date.today()
+    start_date = end_date - timedelta(days=WINDOW_DAYS - 1)
     params = {
         "search": SEARCH_QUERY,
         "filter": (
-            f"from_publication_date:{FROM_PUBLICATION_DATE},"
-            f"to_publication_date:{TO_PUBLICATION_DATE}"
+            f"from_publication_date:{start_date.isoformat()},"
+            f"to_publication_date:{end_date.isoformat()}"
         ),
         "sort": "publication_date:desc",
         "per-page": MAX_RESULTS,
@@ -114,5 +116,5 @@ def run() -> list[dict[str, str]]:
     if not records:
         raise RuntimeError("No entries found in OpenAlex response for the configured AI query.")
 
-    print(f"[openalex] Parsed {len(records)} feed items")
+    print(f"[openalex] Parsed {len(records)} feed items from last {WINDOW_DAYS} days")
     return records

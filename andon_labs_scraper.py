@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 import html
 import re
+from datetime import date, datetime, timedelta
 from urllib.parse import urljoin
 from urllib.request import Request, urlopen
 
@@ -8,6 +9,7 @@ BASE_URL = "https://andonlabs.com"
 BLOG_INDEX_URL = f"{BASE_URL}/blog"
 USER_AGENT = "Mozilla/5.0 (compatible; DataGatherer/1.0; +https://example.local)"
 REQUEST_TIMEOUT_SECONDS = 30
+WINDOW_DAYS = 7
 
 OUTPUT_BASENAME = "andon_labs_blog"
 FIELDS = ["title", "url", "date", "content"]
@@ -31,6 +33,25 @@ def _clean_text(text: str) -> str:
     return text.strip()
 
 
+def _parse_post_date(date_text: str) -> date | None:
+    for fmt in ("%m/%d/%Y", "%-m/%-d/%Y"):
+        try:
+            return datetime.strptime(date_text, fmt).date()
+        except ValueError:
+            continue
+    return None
+
+
+def _in_last_window(date_text: str) -> bool:
+    post_day = _parse_post_date(date_text)
+    if post_day is None:
+        return False
+
+    end_day = date.today()
+    start_day = end_day - timedelta(days=WINDOW_DAYS - 1)
+    return start_day <= post_day <= end_day
+
+
 def _parse_listing(blog_index_html: str) -> list[dict[str, str]]:
     posts: list[dict[str, str]] = []
     seen_urls: set[str] = set()
@@ -41,7 +62,7 @@ def _parse_listing(blog_index_html: str) -> list[dict[str, str]]:
         date = _clean_text(match.group(3).strip())
         url = urljoin(BASE_URL, relative_url)
 
-        if not title or url in seen_urls:
+        if not title or url in seen_urls or not _in_last_window(date):
             continue
 
         seen_urls.add(url)
@@ -82,4 +103,5 @@ def run() -> list[dict[str, str]]:
         article_html = _fetch_html(post["url"])
         post["content"] = _parse_article_content(article_html)
 
+    print(f"[andon_labs] Parsed {len(posts)} posts from last {WINDOW_DAYS} days")
     return posts

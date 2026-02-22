@@ -34,16 +34,22 @@ def write_output(records: list[dict[str, str]], fields: list[str], basename: str
 
 
 def main() -> int:
+    had_any_success = False
     for scraper in SCRAPERS:
         name = scraper.__name__
         print(f"Running scraper: {name}")
-        records = scraper.run()
-        json_path, csv_path = write_output(records, scraper.FIELDS, scraper.OUTPUT_BASENAME)
-        print(f"[{name}] Records: {len(records)}")
-        print(f"[{name}] JSON: {json_path.resolve()}")
-        print(f"[{name}] CSV:  {csv_path.resolve()}")
+        try:
+            records = scraper.run()
+            json_path, csv_path = write_output(records, scraper.FIELDS, scraper.OUTPUT_BASENAME)
+            print(f"[{name}] Records: {len(records)}")
+            print(f"[{name}] JSON: {json_path.resolve()}")
+            print(f"[{name}] CSV:  {csv_path.resolve()}")
+            had_any_success = True
+        except Exception as exc:
+            print(f"[{name}] ERROR: {exc}", file=sys.stderr)
+            continue
 
-    return 0
+    return 0 if had_any_success else 1
 
 
 if __name__ == "__main__":
