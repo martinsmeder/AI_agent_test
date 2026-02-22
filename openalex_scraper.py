@@ -91,7 +91,7 @@ def _parse_works(payload: dict) -> list[dict[str, str]]:
         )
         abstract = _reconstruct_abstract(work.get("abstract_inverted_index"))
 
-        if not title or not entry_url:
+        if not title or not entry_url or not abstract:
             continue
 
         records.append(
