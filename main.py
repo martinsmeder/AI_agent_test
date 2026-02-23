@@ -5,6 +5,8 @@ import sys
 from pathlib import Path
 
 import andon_labs_scraper
+import deepmind_blog_scraper
+import openai_news_scraper
 import technologyreview_scraper
 
 OUTPUT_DIR = Path("output")
@@ -13,6 +15,8 @@ COMBINED_OUTPUT_BASENAME = "combined_feed"
 SCRAPERS = [
     andon_labs_scraper,
     technologyreview_scraper,
+    openai_news_scraper,
+    deepmind_blog_scraper,
 ]
 
 

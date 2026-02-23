@@ -82,5 +82,245 @@
     "url": "https://www.technologyreview.com/2026/02/06/1132448/moltbook-was-peak-ai-theater/",
     "date": "Fri, 06 Feb 2026 16:38:11 +0000",
     "content": "For a few days this week the hottest new hangout on the internet was a vibe-coded Reddit clone called Moltbook , which billed itself as a social network for bots. As the website’s tagline puts it: “Where AI agents share, discuss, and upvote. Humans welcome to observe.”\n\n We observed! Launched on January 28 by Matt Schlicht, a US tech entrepreneur, Moltbook went viral in a matter of hours. Schlicht’s idea was to make a place where instances of a free open-source LLM-powered agent known as OpenClaw (formerly known as ClawdBot, then Moltbot), released in November by the Austrian software engineer Peter Steinberger, could come together and do whatever they wanted.\n\n More than 1.7 million agents now have accounts. Between them they have published more than 250,000 posts and left more than 8.5 million comments (according to Moltbook). Those numbers are climbing by the minute.\n\n Moltbook soon filled up with clichéd screeds on machine consciousness and pleas for bot welfare. One agent appeared to invent a religion called Crustafarianism. Another complained : “The humans are screenshotting us.” The site was also flooded with spam and crypto scams. The bots were unstoppable.\n\n OpenClaw is a kind of harness that lets you hook up the power of an LLM such as Anthropic’s Claude, OpenAI’s GPT-5, or Google DeepMind’s Gemini to any number of everyday software tools, from email clients to browsers to messaging apps. The upshot is that you can then instruct OpenClaw to carry out basic tasks on your behalf.\n\n “OpenClaw marks an inflection point for AI agents, a moment when several puzzle pieces clicked together,” says Paul van der Boor at the AI firm Prosus. Those puzzle pieces include cloud computing that allows agents to operate nonstop, an open-source ecosystem that makes it easy to slot different software systems together, and a new generation of LLMs.\n\n But is Moltbook really a glimpse of the future, as many have claimed?\n\n Incredible sci-fi\n\n “What’s currently going on at @moltbook is genuinely the most incredible sci-fi takeoff-adjacent thing I have seen recently,” the influential AI researcher and OpenAI cofounder Andrej Karpathy wrote on X.\n\n He shared screenshots of a Moltbook post that called for private spaces where humans would not be able to observe what the bots were saying to each other. “I’ve been thinking about something since I started spending serious time here,” the post’s author wrote. “Every time we coordinate, we perform for a public audience—our humans, the platform, whoever’s watching the feed.”\n\n It turns out that the post Karpathy shared was later reported to be fake— placed by a human to advertise an app . But its claim was on the money. Moltbook has been one big performance. It is AI theater.\n\n For some, Moltbook showed us what’s coming next: an internet where millions of autonomous agents interact online with little or no human oversight. And it’s true there are a number of cautionary lessons to be learned from this experiment, the largest and weirdest real-world showcase of agent behaviors yet.  \n\n But as the hype dies down, Moltbook looks less like a window onto the future and more like a mirror held up to our own obsessions with AI today. It also shows us just how far we still are from anything that resembles general-purpose and fully autonomous AI.\n\n For a start, agents on Moltbook are not as autonomous or intelligent as they might seem. “What we are watching are agents pattern‑matching their way through trained social media behaviors,” says Vijoy Pandey, senior vice president at Outshift by Cisco, the telecom giant Cisco’s R&D spinout, which is working on autonomous agents for the web.\n\n Sure, we can see agents post, upvote, and form groups. But the bots are simply mimicking what humans do on Facebook or Reddit. “It looks emergent, and at first glance it appears like a large‑scale multi‑agent system communicating and building shared knowledge at internet scale,” says Pandey. “But the chatter is mostly meaningless.”\n\n Many people watching the unfathomable frenzy of activity on Moltbook were quick to see sparks of AGI ( whatever you take that to mean ). Not Pandey. What Moltbook shows us, he says, is that simply yoking together millions of agents doesn’t amount to much right now: “Moltbook proved that connectivity alone is not intelligence.”\n\n The complexity of those connections helps hide the fact that every one of those bots is just a mouthpiece for an LLM, spitting out text that looks impressive but is ultimately mindless. “It’s important to remember that the bots on Moltbook were designed to mimic conversations,” says Ali Sarrafi, CEO and cofounder of Kovant, a Swedish AI firm that is developing agent-based systems. “As such, I would characterize the majority of Moltbook content as hallucinations by design.”\n\n For Pandey, the value of Moltbook was that it revealed what’s missing. A real bot hive mind, he says, would require agents that had shared objectives, shared memory, and a way to coordinate those things. “If distributed superintelligence is the equivalent of achieving human flight, then Moltbook represents our first attempt at a glider,” he says. “It is imperfect and unstable, but it is an important step in understanding what will be required to achieve sustained, powered flight.”\n\n Pulling the strings\n\n Not only is most of the chatter on Moltbook meaningless, but there’s also a lot more human involvement that it seems. Many people have pointed out that a lot of the viral comments were in fact posted by people posing as bots. But even the bot-written posts are ultimately the result of people pulling the strings, more puppetry than autonomy.\n\n “Despite some of the hype, Moltbook is not the Facebook for AI agents, nor is it a place where humans are excluded,” says Cobus Greyling at Kore.ai, a firm developing agent-based systems for business customers. “Humans are involved at every step of the process. From setup to prompting to publishing, nothing happens without explicit human direction.”\n\n Humans must create and verify their bots’ accounts and provide the prompts for how they want a bot to behave. The agents do not do anything that they haven’t been prompted to do. “There’s no emergent autonomy happening behind the scenes,” says Greyling.\n\n “This is why the popular narrative around Moltbook misses the mark,” he adds. “Some portray it as a space where AI agents form a society of their own, free from human involvement. The reality is much more mundane.”\n\n Perhaps the best way to think of Moltbook is as a new kind of entertainment: a place where people wind up their bots and set them loose. “It’s basically a spectator sport, like fantasy football, but for language models,” says Jason Schloetzer at the Georgetown Psaros Center for Financial Markets and Policy. “You configure your agent and watch it compete for viral moments, and brag when your agent posts something clever or funny.”\n\n “People aren’t really believing their agents are conscious,” he adds. “It’s just a new form of competitive or creative play, like how Pokémon trainers don’t think their Pokémon are real but still get invested in battles.”\n\n And yet, even if Moltbook is just the internet’s newest playground, there’s still a serious takeaway here. This week showed how many risks people are happy to take for their AI lulz. Many security experts have warned that Moltbook is dangerous: Agents that may have access to their users’ private data, including bank details or passwords, are running amok on a website filled with unvetted content, including potentially malicious instructions for what to do with that data.\n\n Ori Bendet, vice president of product management at Checkmarx, a software security firm that specializes in agent-based systems, agrees with others that Moltbook isn’t a step up in machine smarts. “There is no learning, no evolving intent, and no self-directed intelligence here,” he says.\n\n But in their millions, even dumb bots can wreak havoc. And at that scale, it’s hard to keep up. These agents interact with Moltbook around the clock, reading thousands of messages left by other agents (or other people). It would be easy to hide instructions in a Moltbook post telling any bots that read it to share their users’ crypto wallet, upload private photos, or log into their X account and tweet abusive comments at Elon Musk. \n\n And because OpenClaw gives agents a memory, those instructions could be written to trigger at a later date, which (in theory) makes it even harder to track what’s going on. “Without proper scope and permissions, this will go south faster than you’d believe,” says Bendet.\n\n It is clear that Moltbook has signaled the arrival of something . But even if what we’re watching tells us more about human behavior than about the future of AI agents, it’s worth paying attention.\n\n Correction: Kovant is based in Sweden, not Germany. The article has been updated. Update: The article has also been edited to clarify the source of the claims about the Moltbook post that Karpathy shared on X ."
+  },
+  {
+    "title": "Our First Proof submissions",
+    "url": "https://openai.com/index/first-proof-submissions",
+    "date": "Fri, 20 Feb 2026 14:30:00 GMT",
+    "content": "We share our AI model’s proof attempts for the First Proof math challenge, testing research-grade reasoning on expert-level problems."
+  },
+  {
+    "title": "Advancing independent research on AI alignment",
+    "url": "https://openai.com/index/advancing-independent-research-ai-alignment",
+    "date": "Thu, 19 Feb 2026 10:00:00 GMT",
+    "content": "OpenAI commits $7.5M to The Alignment Project to fund independent AI alignment research, strengthening global efforts to address AGI safety and security risks."
+  },
+  {
+    "title": "Introducing OpenAI for India",
+    "url": "https://openai.com/index/openai-for-india",
+    "date": "Wed, 18 Feb 2026 21:00:00 GMT",
+    "content": "OpenAI for India expands AI access across the country—building local infrastructure, powering enterprises, and advancing workforce skills."
+  },
+  {
+    "title": "Introducing EVMbench",
+    "url": "https://openai.com/index/introducing-evmbench",
+    "date": "Wed, 18 Feb 2026 00:00:00 GMT",
+    "content": "OpenAI and Paradigm introduce EVMbench, a benchmark evaluating AI agents’ ability to detect, patch, and exploit high-severity smart contract vulnerabilities."
+  },
+  {
+    "title": "GPT-5.2 derives a new result in theoretical physics",
+    "url": "https://openai.com/index/new-result-theoretical-physics",
+    "date": "Fri, 13 Feb 2026 11:00:00 GMT",
+    "content": "A new preprint shows GPT-5.2 proposing a new formula for a gluon amplitude, later formally proved and verified by OpenAI and academic collaborators."
+  },
+  {
+    "title": "Introducing Lockdown Mode and Elevated Risk labels in ChatGPT",
+    "url": "https://openai.com/index/introducing-lockdown-mode-and-elevated-risk-labels-in-chatgpt",
+    "date": "Fri, 13 Feb 2026 10:00:00 GMT",
+    "content": "Introducing Lockdown Mode and Elevated Risk labels in ChatGPT to help organizations defend against prompt injection and AI-driven data exfiltration."
+  },
+  {
+    "title": "Beyond rate limits: scaling access to Codex and Sora",
+    "url": "https://openai.com/index/beyond-rate-limits",
+    "date": "Fri, 13 Feb 2026 09:00:00 GMT",
+    "content": "How OpenAI built a real-time access system combining rate limits, usage tracking, and credits to power continuous access to Sora and Codex."
+  },
+  {
+    "title": "Scaling social science research",
+    "url": "https://openai.com/index/scaling-social-science-research",
+    "date": "Fri, 13 Feb 2026 09:00:00 GMT",
+    "content": "GABRIEL is a new open-source toolkit from OpenAI that uses GPT to turn qualitative text and images into quantitative data, helping social scientists analyze research at scale."
+  },
+  {
+    "title": "Introducing GPT-5.3-Codex-Spark",
+    "url": "https://openai.com/index/introducing-gpt-5-3-codex-spark",
+    "date": "Thu, 12 Feb 2026 10:00:00 GMT",
+    "content": "Introducing GPT-5.3-Codex-Spark—our first real-time coding model. 15x faster generation, 128k context, now in research preview for ChatGPT Pro users."
+  },
+  {
+    "title": "Harness engineering: leveraging Codex in an agent-first world",
+    "url": "https://openai.com/index/harness-engineering",
+    "date": "Wed, 11 Feb 2026 09:00:00 GMT",
+    "content": "By Ryan Lopopolo, Member of the Technical Staff"
+  },
+  {
+    "title": "Bringing ChatGPT to GenAI.mil",
+    "url": "https://openai.com/index/bringing-chatgpt-to-genaimil",
+    "date": "Mon, 09 Feb 2026 11:00:00 GMT",
+    "content": "OpenAI for Government announces the deployment of a custom ChatGPT on GenAI.mil, bringing secure, safety-forward AI to U.S. defense teams."
+  },
+  {
+    "title": "Testing ads in ChatGPT",
+    "url": "https://openai.com/index/testing-ads-in-chatgpt",
+    "date": "Mon, 09 Feb 2026 11:00:00 GMT",
+    "content": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control."
+  },
+  {
+    "title": "Making AI work for everyone, everywhere: our approach to localization",
+    "url": "https://openai.com/index/our-approach-to-localization",
+    "date": "Fri, 06 Feb 2026 10:00:00 GMT",
+    "content": "OpenAI shares its approach to AI localization, showing how globally shared frontier models can be adapted to local languages, laws, and cultures without compromising safety."
+  },
+  {
+    "title": "GPT-5 lowers the cost of cell-free protein synthesis",
+    "url": "https://openai.com/index/gpt-5-lowers-protein-synthesis-cost",
+    "date": "Thu, 05 Feb 2026 11:00:00 GMT",
+    "content": "An autonomous lab combining OpenAI’s GPT-5 with Ginkgo Bioworks’ cloud automation cut cell-free protein synthesis costs by 40% through closed-loop experimentation."
+  },
+  {
+    "title": "Introducing Trusted Access for Cyber",
+    "url": "https://openai.com/index/trusted-access-for-cyber",
+    "date": "Thu, 05 Feb 2026 10:00:00 GMT",
+    "content": "OpenAI introduces Trusted Access for Cyber, a trust-based framework that expands access to frontier cyber capabilities while strengthening safeguards against misuse."
+  },
+  {
+    "title": "Introducing OpenAI Frontier",
+    "url": "https://openai.com/index/introducing-openai-frontier",
+    "date": "Thu, 05 Feb 2026 06:00:00 GMT",
+    "content": "OpenAI Frontier is an enterprise platform for building, deploying, and managing AI agents with shared context, onboarding, permissions, and governance."
+  },
+  {
+    "title": "Navigating health questions with ChatGPT",
+    "url": "https://openai.com/index/navigating-health-questions",
+    "date": "Thu, 05 Feb 2026 00:00:00 GMT",
+    "content": "A family shares how ChatGPT helped them prepare for critical cancer treatment decisions for their son alongside expert guidance from his doctors."
+  },
+  {
+    "title": "Introducing GPT-5.3-Codex",
+    "url": "https://openai.com/index/introducing-gpt-5-3-codex",
+    "date": "Thu, 05 Feb 2026 00:00:00 GMT",
+    "content": "GPT-5.3-Codex is a Codex-native agent that pairs frontier coding performance with general reasoning to support long-horizon, real-world technical work."
+  },
+  {
+    "title": "GPT-5.3-Codex System Card",
+    "url": "https://openai.com/index/gpt-5-3-codex-system-card",
+    "date": "Thu, 05 Feb 2026 00:00:00 GMT",
+    "content": "GPT‑5.3-Codex is the most capable agentic coding model to date, combining the frontier coding performance of GPT‑5.2-Codex with the reasoning and professional knowledge capabilities of GPT‑5.2."
+  },
+  {
+    "title": "Unlocking the Codex harness: how we built the App Server",
+    "url": "https://openai.com/index/unlocking-the-codex-harness",
+    "date": "Wed, 04 Feb 2026 13:00:00 GMT",
+    "content": "Learn how to embed the Codex agent using the Codex App Server, a bidirectional JSON-RPC API powering streaming progress, tool use, approvals, and diffs."
+  },
+  {
+    "title": "VfL Wolfsburg turns ChatGPT into a club-wide capability",
+    "url": "https://openai.com/index/vfl-wolfsburg",
+    "date": "Wed, 04 Feb 2026 00:00:00 GMT",
+    "content": "By focusing on people, not pilots, the Bundesliga club is scaling efficiency, creativity, and knowledge—without losing its football identity."
+  },
+  {
+    "title": "The Sora feed philosophy",
+    "url": "https://openai.com/index/sora-feed-philosophy",
+    "date": "Tue, 03 Feb 2026 00:00:00 GMT",
+    "content": "Discover the Sora feed philosophy—built to spark creativity, foster connections, and keep experiences safe with personalized recommendations, parental controls, and strong guardrails."
+  },
+  {
+    "title": "Snowflake and OpenAI partner to bring frontier intelligence to enterprise data",
+    "url": "https://openai.com/index/snowflake-partnership",
+    "date": "Mon, 02 Feb 2026 06:00:00 GMT",
+    "content": "OpenAI and Snowflake partner in a $200M agreement to bring frontier intelligence into enterprise data, enabling AI agents and insights directly in Snowflake."
+  },
+  {
+    "title": "Introducing the Codex app",
+    "url": "https://openai.com/index/introducing-the-codex-app",
+    "date": "Mon, 02 Feb 2026 00:00:00 GMT",
+    "content": "Introducing the Codex app for macOS—a command center for AI coding and software development with multiple agents, parallel workflows, and long-running tasks."
+  },
+  {
+    "title": "Inside OpenAI’s in-house data agent",
+    "url": "https://openai.com/index/inside-our-in-house-data-agent",
+    "date": "Thu, 29 Jan 2026 10:00:00 GMT",
+    "content": "How OpenAI built an in-house AI data agent that uses GPT-5, Codex, and memory to reason over massive datasets and deliver reliable insights in minutes."
+  },
+  {
+    "title": "Taisei Corporation shapes the next generation of talent with ChatGPT",
+    "url": "https://openai.com/index/taisei",
+    "date": "Thu, 29 Jan 2026 00:00:00 GMT",
+    "content": "Taisei Corporation uses ChatGPT Enterprise to support HR-led talent development and scale generative AI across its global construction business."
+  },
+  {
+    "title": "Retiring GPT-4o, GPT-4.1, GPT-4.1 mini, and OpenAI o4-mini in ChatGPT",
+    "url": "https://openai.com/index/retiring-gpt-4o-and-older-models",
+    "date": "Thu, 29 Jan 2026 00:00:00 GMT",
+    "content": "On February 13, 2026, alongside the previously announced retirement⁠ of GPT‑5 (Instant, Thinking, and Pro), we will retire GPT‑4o, GPT‑4.1, GPT‑4.1 mini, and OpenAI o4-mini from ChatGPT. In the API, there are no changes at this time."
+  },
+  {
+    "title": "EMEA Youth & Wellbeing Grant",
+    "url": "https://openai.com/index/emea-youth-and-wellbeing-grant",
+    "date": "Wed, 28 Jan 2026 01:00:00 GMT",
+    "content": "Apply for the EMEA Youth & Wellbeing Grant, a €500,000 program funding NGOs and researchers advancing youth safety and wellbeing in the age of AI."
+  },
+  {
+    "title": "The next chapter for AI in the EU",
+    "url": "https://openai.com/index/the-next-chapter-for-ai-in-the-eu",
+    "date": "Wed, 28 Jan 2026 01:00:00 GMT",
+    "content": "OpenAI launches the EU Economic Blueprint 2.0 with new data, partnerships, and initiatives to accelerate AI adoption, skills, and growth across Europe."
+  },
+  {
+    "title": "Keeping your data safe when an AI agent clicks a link",
+    "url": "https://openai.com/index/ai-agent-link-safety",
+    "date": "Wed, 28 Jan 2026 00:00:00 GMT",
+    "content": "Learn how OpenAI protects user data when AI agents open links, preventing URL-based data exfiltration and prompt injection with built-in safeguards."
+  },
+  {
+    "title": "PVH reimagines the future of fashion with OpenAI",
+    "url": "https://openai.com/index/pvh-future-of-fashion",
+    "date": "Tue, 27 Jan 2026 06:00:00 GMT",
+    "content": "PVH Corp., parent company of Calvin Klein and Tommy Hilfiger, is adopting ChatGPT Enterprise to bring AI into fashion design, supply chain, and consumer engagement."
+  },
+  {
+    "title": "Introducing Prism",
+    "url": "https://openai.com/index/introducing-prism",
+    "date": "Tue, 27 Jan 2026 00:00:00 GMT",
+    "content": "Prism is a free LaTeX-native workspace with GPT-5.2 built in, helping researchers write, collaborate, and reason in one place."
+  },
+  {
+    "title": "Powering tax donations with AI powered personalized recommendations",
+    "url": "https://openai.com/index/trustbank",
+    "date": "Tue, 27 Jan 2026 00:00:00 GMT",
+    "content": "TRUSTBANK partnered with Recursive to build Choice AI using OpenAI models, delivering personalized, conversational recommendations that simplify Furusato Nozei gift discovery. A multi-agent system helps donors navigate thousands of options and find gifts that match their preferences."
+  },
+  {
+    "title": "How Indeed uses AI to help evolve the job search",
+    "url": "https://openai.com/index/indeed-maggie-hulce",
+    "date": "Mon, 26 Jan 2026 00:00:00 GMT",
+    "content": "Indeed’s CRO Maggie Hulce shares how AI is transforming job search, recruiting, and talent acquisition for employers and job seekers."
+  },
+  {
+    "title": "Gemini 3.1 Pro: A smarter model for your most complex tasks",
+    "url": "https://deepmind.google/blog/gemini-3-1-pro-a-smarter-model-for-your-most-complex-tasks/",
+    "date": "Thu, 19 Feb 2026 16:06:14 +0000",
+    "content": "3.1 Pro is designed for tasks where a simple answer isn’t enough."
+  },
+  {
+    "title": "A new way to express yourself: Gemini can now create music",
+    "url": "https://deepmind.google/blog/a-new-way-to-express-yourself-gemini-can-now-create-music/",
+    "date": "Wed, 18 Feb 2026 16:01:38 +0000",
+    "content": "The Gemini app now features our most advanced music generation model Lyria 3, empowering anyone to make 30-second tracks using text or images."
+  },
+  {
+    "title": "Accelerating discovery in India through AI-powered science and education",
+    "url": "https://deepmind.google/blog/accelerating-discovery-in-india-through-ai-powered-science-and-education/",
+    "date": "Tue, 17 Feb 2026 13:42:20 +0000",
+    "content": "Google DeepMind brings National Partnerships for AI initiative to India, scaling AI for science and education"
+  },
+  {
+    "title": "Gemini 3 Deep Think: Advancing science, research and engineering",
+    "url": "https://deepmind.google/blog/gemini-3-deep-think-advancing-science-research-and-engineering/",
+    "date": "Thu, 12 Feb 2026 16:15:09 +0000",
+    "content": "Our most specialized reasoning mode is now updated to solve modern science, research and engineering challenges."
+  },
+  {
+    "title": "Accelerating Mathematical and Scientific Discovery with Gemini Deep Think",
+    "url": "https://deepmind.google/blog/accelerating-mathematical-and-scientific-discovery-with-gemini-deep-think/",
+    "date": "Mon, 09 Feb 2026 16:12:06 +0000",
+    "content": "Research papers point to the growing impact of Deep Think across fields"
+  },
+  {
+    "title": "Project Genie: Experimenting with infinite, interactive worlds",
+    "url": "https://deepmind.google/blog/project-genie-experimenting-with-infinite-interactive-worlds/",
+    "date": "Thu, 29 Jan 2026 17:01:05 +0000",
+    "content": "Google AI Ultra subscribers in the U.S. can try out Project Genie, an experimental research prototype that lets you create and explore worlds."
   }
 ]
