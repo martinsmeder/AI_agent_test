@@ -5,15 +5,14 @@ import sys
 from pathlib import Path
 
 import andon_labs_scraper
-import openalex_scraper
 import technologyreview_scraper
 
 OUTPUT_DIR = Path("output")
+COMBINED_OUTPUT_BASENAME = "combined_feed"
 
 SCRAPERS = [
     andon_labs_scraper,
     technologyreview_scraper,
-    openalex_scraper,
 ]
 
 
@@ -35,19 +34,26 @@ def write_output(records: list[dict[str, str]], fields: list[str], basename: str
 
 def main() -> int:
     had_any_success = False
+    combined_records: list[dict[str, str]] = []
+    combined_fields = andon_labs_scraper.FIELDS
+
     for scraper in SCRAPERS:
         name = scraper.__name__
         print(f"Running scraper: {name}")
         try:
             records = scraper.run()
-            json_path, csv_path = write_output(records, scraper.FIELDS, scraper.OUTPUT_BASENAME)
             print(f"[{name}] Records: {len(records)}")
-            print(f"[{name}] JSON: {json_path.resolve()}")
-            print(f"[{name}] CSV:  {csv_path.resolve()}")
+            combined_records.extend(records)
             had_any_success = True
         except Exception as exc:
             print(f"[{name}] ERROR: {exc}", file=sys.stderr)
             continue
+
+    if had_any_success:
+        json_path, csv_path = write_output(combined_records, combined_fields, COMBINED_OUTPUT_BASENAME)
+        print(f"[combined] Records: {len(combined_records)}")
+        print(f"[combined] JSON: {json_path.resolve()}")
+        print(f"[combined] CSV:  {csv_path.resolve()}")
 
     return 0 if had_any_success else 1
 

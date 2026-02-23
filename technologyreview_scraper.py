@@ -9,7 +9,7 @@ from xml.etree import ElementTree as ET
 FEED_URL = "https://www.technologyreview.com/topic/artificial-intelligence/feed/"
 USER_AGENT = "Mozilla/5.0 (compatible; DataGatherer/1.0; +https://example.local)"
 REQUEST_TIMEOUT_SECONDS = 30
-WINDOW_DAYS = 7
+WINDOW_DAYS = 30
 
 OUTPUT_BASENAME = "technologyreview_feed"
 FIELDS = ["title", "url", "date", "content"]

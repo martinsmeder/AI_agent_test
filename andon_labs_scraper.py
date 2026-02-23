@@ -9,7 +9,7 @@ BASE_URL = "https://andonlabs.com"
 BLOG_INDEX_URL = f"{BASE_URL}/blog"
 USER_AGENT = "Mozilla/5.0 (compatible; DataGatherer/1.0; +https://example.local)"
 REQUEST_TIMEOUT_SECONDS = 30
-WINDOW_DAYS = 7
+WINDOW_DAYS = 30
 
 OUTPUT_BASENAME = "andon_labs_blog"
 FIELDS = ["title", "url", "date", "content"]
@@ -96,7 +96,7 @@ def run() -> list[dict[str, str]]:
     posts = _parse_listing(blog_index_html)
 
     if not posts:
-        raise RuntimeError("No Andon Labs blog posts found. Page structure may have changed.")
+        raise RuntimeError(f"No Andon Labs blog posts found in the last {WINDOW_DAYS} days.")
 
     for index, post in enumerate(posts, start=1):
         print(f"[andon_labs] [{index}/{len(posts)}] Fetching content: {post['url']}")
