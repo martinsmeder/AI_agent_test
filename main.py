@@ -9,6 +9,7 @@ import andon_labs_scraper
 import deepmind_blog_scraper
 import openai_news_scraper
 import technologyreview_scraper
+import xai_news_scraper
 
 OUTPUT_DIR = Path("output")
 COMBINED_OUTPUT_BASENAME = "combined_feed"
@@ -19,6 +20,7 @@ SCRAPERS = [
     openai_news_scraper,
     deepmind_blog_scraper,
     anthropic_news_scraper,
+    xai_news_scraper,
 ]
 
 
