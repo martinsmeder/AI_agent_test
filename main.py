@@ -4,6 +4,7 @@ import json
 import sys
 from pathlib import Path
 
+import anthropic_news_scraper
 import andon_labs_scraper
 import deepmind_blog_scraper
 import openai_news_scraper
@@ -17,6 +18,7 @@ SCRAPERS = [
     technologyreview_scraper,
     openai_news_scraper,
     deepmind_blog_scraper,
+    anthropic_news_scraper,
 ]
 
 

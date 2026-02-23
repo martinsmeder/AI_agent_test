@@ -1291,3 +1291,555 @@ Accelerating discovery in India through AI-powered science and education,https:/
 "Gemini 3 Deep Think: Advancing science, research and engineering",https://deepmind.google/blog/gemini-3-deep-think-advancing-science-research-and-engineering/,"Thu, 12 Feb 2026 16:15:09 +0000","Our most specialized reasoning mode is now updated to solve modern science, research and engineering challenges."
 Accelerating Mathematical and Scientific Discovery with Gemini Deep Think,https://deepmind.google/blog/accelerating-mathematical-and-scientific-discovery-with-gemini-deep-think/,"Mon, 09 Feb 2026 16:12:06 +0000",Research papers point to the growing impact of Deep Think across fields
 "Project Genie: Experimenting with infinite, interactive worlds",https://deepmind.google/blog/project-genie-experimenting-with-infinite-interactive-worlds/,"Thu, 29 Jan 2026 17:01:05 +0000","Google AI Ultra subscribers in the U.S. can try out Project Genie, an experimental research prototype that lets you create and explore worlds."
+Making frontier cybersecurity capabilities available to defenders,https://www.anthropic.com/news/claude-code-security,"Fri, 20 Feb 2026 00:00:00 +0000","Announcements
+ Making frontier cybersecurity capabilities available to defenders
+ Feb 20, 2026
+
+ Claude Code Security , a new capability built into Claude Code on the web, is now available in a limited research preview. It scans codebases for security vulnerabilities and suggests targeted software patches for human review, allowing teams to find and fix security issues that traditional methods often miss.
+
+Security teams face a common challenge: too many software vulnerabilities and not enough people to address them. Existing analysis tools help, but only to a point, as they usually look for known patterns. Finding the subtle, context-dependent vulnerabilities that are often exploited by attackers requires skilled human researchers, who are dealing with ever-expanding backlogs.
+ AI is beginning to change that calculus. We’ve recently shown that Claude can detect novel, high-severity vulnerabilities . But the same capabilities that help defenders find and fix vulnerabilities could help attackers exploit them.
+ Claude Code Security is intended to put this power squarely in the hands of defenders and protect code against this new category of AI-enabled attack. We’re releasing it as a limited research preview to Enterprise and Team customers, with expedited access for maintainers of open-source repositories, so we can work together to refine its capabilities and ensure it is deployed responsibly.
+ How Claude Code Security works
+
+ Static analysis—a widely deployed form of automated security testing—is typically rule-based, meaning it matches code against known vulnerability patterns. That catches common issues, like exposed passwords or outdated encryption, but often misses more complex vulnerabilities, like flaws in business logic or broken access control.
+ Rather than scanning for known patterns, Claude Code Security reads and reasons about your code the way a human security researcher would: understanding how components interact, tracing how data moves through your application, and catching complex vulnerabilities that rule-based tools miss.
+ Every finding goes through a multi-stage verification process before it reaches an analyst. Claude re-examines each result, attempting to prove or disprove its own findings and filter out false positives. Findings are also assigned severity ratings so teams can focus on the most important fixes first.
+ Validated findings appear in the Claude Code Security dashboard, where teams can review them, inspect the suggested patches, and approve fixes. Because these issues often involve nuances that are difficult to assess from source code alone, Claude also provides a confidence rating for each finding. Nothing is applied without human approval: Claude Code Security identifies problems and suggests solutions, but developers always make the call.
+ Using Claude for cybersecurity
+ Claude Code Security builds on more than a year of research into Claude’s cybersecurity capabilities. Our Frontier Red Team has been stress-testing these abilities systematically: entering Claude in competitive Capture-the-Flag events , partnering with Pacific Northwest National Laboratory to experiment with using AI to defend critical infrastructure , and refining Claude’s ability to find and patch real vulnerabilities in code.
+ Claude’s cyberdefensive abilities have improved substantially as a result. Using Claude Opus 4.6 , released earlier this month, our team found over 500 vulnerabilities in production open-source codebases—bugs that had gone undetected for decades, despite years of expert review. We’re working through triage and responsible disclosure with maintainers now, and we plan to expand our security work with the open-source community.
+ We also use Claude to review our own code, and we’ve found it to be extremely effective at securing Anthropic’s systems. We built Claude Code Security to make those same defensive capabilities more widely available. And since it’s built on Claude Code, teams can review findings and iterate on fixes within the tools they already use.
+ The road ahead
+ This is a pivotal time for cybersecurity. We expect that a significant share of the world’s code will be scanned by AI in the near future, given how effective models have become at finding long-hidden bugs and security issues.
+ Attackers will use AI to find exploitable weaknesses faster than ever. But defenders who move quickly can find those same weaknesses, patch them, and reduce the risk of an attack. Claude Code Security is one step towards our goal of more secure codebases and a higher security baseline across the industry.
+ Getting started
+ We’re opening a limited research preview of Claude Code Security to Enterprise and Team customers today. Participants will get early access and collaborate directly with our team to hone the tool’s capabilities. We also encourage open-source maintainers to apply for free, expedited access.
+ Apply for access here .
+ To learn more, visit claude.com/solutions/claude-code-security ."
+Anthropic and Infosys collaborate to build AI agents for telecommunications and other regulated industries,https://www.anthropic.com/news/anthropic-infosys,"Tue, 17 Feb 2026 00:00:00 +0000","Announcements
+ Anthropic and Infosys collaborate to build AI agents for telecommunications and other regulated industries
+ Feb 17, 2026
+
+ Anthropic and Infosys , a global leader in next-generation digital services and consulting founded and headquartered in Bengaluru, today announced a collaboration to develop and deliver enterprise AI solutions across telecommunications, financial services, manufacturing, and software development.
+ The collaboration integrates Anthropic’s Claude models and Claude Code with Infosys Topaz , an AI-first set of services, solutions, and platforms using generative and agentic AI technologies, to help companies speed up software development and adopt AI with the governance and transparency that regulated industries require.
+ India is the second-largest market for Claude.ai, home to a developer community doing some of the most technically intense AI work we see anywhere: nearly half of Claude usage in India involves building applications, modernizing systems, and shipping production software. Infosys is one of the first partners in Anthropic’s expanded presence in India .
+ “There’s a big gap between an AI model that works in a demo and one that works in a regulated industry—and if you want to close that gap, you need domain expertise. Infosys has exactly that kind of expertise across important industries: telecom, financial services, and manufacturing. Their developers are already using Claude Code to accelerate their work and to create AI agents for industries that demand precision, compliance, and deep domain knowledge,” said Dario Amodei, CEO and Co-founder of Anthropic.
+ “AI is not just transforming business, it is redefining the way industries operate and innovate. Our collaboration with Anthropic marks a strategic leap toward advancing enterprise AI, enabling organizations to unlock value and become more intelligent, resilient, and responsible. From modernizing financial services with intelligent risk management and compliance, to enabling engineering businesses to lead with AI-driven design and manufacturing, the goal is to leverage the joint expertise of Infosys and Anthropic to accelerate AI value realization for global enterprises,” said Salil Parekh, Chief Executive Officer, Infosys.
+ Building agentic AI for regulated industries
+ A core focus of the collaboration is agentic AI—systems that go beyond answering questions to independently handling multi-step tasks like processing claims, generating and testing code, or managing compliance reviews. Using tools like the Claude Agent SDK, Infosys and Anthropic will help clients build AI agents that work persistently across long, complex tasks and processes. The collaboration will also help organizations modernize legacy systems, combining Infosys Topaz and Claude to make migration faster and easier and reduce the cost of updating aging infrastructure.
+ Together, Infosys and Anthropic will develop AI agents tailored to specific industries:
+ Telecommunications: AI agents will help carriers modernize network operations, simplify customer lifecycle management, and improve service delivery—bringing intelligent automation to one of the most operationally complex and regulated industries in the world.
+ Financial services: AI agents will help firms detect and assess risk faster, automate compliance reporting, and deliver more personalized customer interactions, such as tailoring financial advice based on a client's full account history and market conditions.
+ Manufacturing and engineering: Claude will help accelerate product design and simulation, reducing R&D timelines and enabling engineers to test more iterations before production.
+ Software development: Teams will use Claude Code to write, test, and debug code, helping developers move faster from design to production.
+ Enterprise operations: Claude Cowork will help teams automate routine work like document summarization, status reporting, and review cycles.
+
+ Getting started
+ Visit our Enterprise page to learn more about Claude. Claude is the only frontier model available on all three of the world’s most prominent cloud services: Amazon Bedrock, Google Cloud Vertex AI, and Microsoft Azure.
+ Learn more about Anthropic’s expanded presence in India here ."
+Anthropic and the Government of Rwanda sign MOU for AI in health and education,https://www.anthropic.com/news/anthropic-rwanda-mou,"Tue, 17 Feb 2026 00:00:00 +0000","Announcements
+ Anthropic and the Government of Rwanda sign MOU for AI in health and education
+ Feb 17, 2026
+
+ The Government of Rwanda and Anthropic have signed a three-year Memorandum of Understanding to formalize and expand our partnership, bringing AI to Rwanda’s education, health, and public sector systems. This agreement builds on the ALX education partnership we announced in November 2025 and marks the first time Anthropic has formalized a multi-sector partnership through a government MOU on the African continent.
+ Our collaboration spans three areas:
+ Accelerating Rwanda’s health goals: Anthropic will support the Ministry of Health to tackle its ambitious national health goals, including its plan to eliminate cervical cancer and its ongoing eﬀorts to reduce malaria and maternal mortality.
+ Enabling Rwanda’s public sector developers: Developer teams across government institutions will use Claude and Claude Code. Along with hands-on training, capacity building, and API credits, this access will support Rwanda’s broader efforts to integrate AI into other public sector areas.
+ Deepening our education partnership in Rwanda and throughout the region: The MOU formally codifies our fall 2025 education agreement , which included 2,000 Claude Pro licenses for educators across Rwanda, AI literacy training for public servants, and the deployment of a Claude-powered AI learning companion across eight African countries.
+
+ Accelerating AI for health, education, and the public sector
+ “This partnership with Anthropic is an important milestone in Rwanda’s AI journey. Our goal is to continue to design and deploy AI solutions that can be applied at a national level to strengthen education, advance health outcomes, and enhance governance with an emphasis on our context,” said Paula Ingabire, Minister of Information and Communications Technology (ICT) and Innovation in Rwanda.
+ Anthropic’s Beneficial Deployments team has worked closely with the Ministry of ICT and Innovation and partners to design programs matched to Rwanda’s needs and priorities.
+ “Technology is only as valuable as its reach. We’re investing in training, technical support, and capacity building to expand access so that AI can be used safely and independently by teachers, health workers, and public servants throughout Rwanda,” said Elizabeth Kelly, Head of Beneficial Deployments at Anthropic.
+ A commitment to AI for the public good
+ Today’s announcement builds on our education partnerships, which help students and educators interact with AI, and marks a significant expansion into the health sector.
+ Together, these partnerships reflect a long-term collaboration that prioritizes capacity building, responsible deployment, and local autonomy over how new technologies are introduced. By investing in skills, infrastructure, and institutions, we hope to lay the groundwork for AI to deliver lasting value in the sectors that matter most to people’s lives."
+Introducing Claude Sonnet 4.6,https://www.anthropic.com/news/claude-sonnet-4-6,"Tue, 17 Feb 2026 00:00:00 +0000","Product
+ Introducing Claude Sonnet 4.6
+ Feb 17, 2026
+
+ Claude Sonnet 4.6 is our most capable Sonnet model yet . It’s a full upgrade of the model’s skills across coding, computer use, long-context reasoning, agent planning, knowledge work, and design. Sonnet 4.6 also features a 1M token context window in beta.
+ For those on our Free and Pro plans , Claude Sonnet 4.6 is now the default model in claude.ai and Claude Cowork . Pricing remains the same as Sonnet 4.5, starting at $3/$15 per million tokens.
+ Sonnet 4.6 brings much-improved coding skills to more of our users. Improvements in consistency, instruction following, and more have made developers with early access prefer Sonnet 4.6 to its predecessor by a wide margin. They often even prefer it to our smartest model from November 2025, Claude Opus 4.5.
+ Performance that would have previously required reaching for an Opus-class model—including on real-world, economically valuable office tasks —is now available with Sonnet 4.6. The model also shows a major improvement in computer use skills compared to prior Sonnet models.
+ As with every new Claude model, we’ve run extensive safety evaluations of Sonnet 4.6, which overall showed it to be as safe as, or safer than, our other recent Claude models. Our safety researchers concluded that Sonnet 4.6 has “a broadly warm, honest, prosocial, and at times funny character, very strong safety behaviors, and no signs of major concerns around high-stakes forms of misalignment.”
+ Computer use
+ Almost every organization has software it can’t easily automate: specialized systems and tools built before modern interfaces like APIs existed. To have AI use such software, users would previously have had to build bespoke connectors. But a model that can use a computer the way a person does changes that equation.
+ In October 2024, we were the first to introduce a general-purpose computer-using model. At the time, we wrote that it was “still experimental—at times cumbersome and error-prone,” but we expected rapid improvement. OSWorld , the standard benchmark for AI computer use, shows how far our models have come. It presents hundreds of tasks across real software (Chrome, LibreOffice, VS Code, and more) running on a simulated computer. There are no special APIs or purpose-built connectors; the model sees the computer and interacts with it in much the same way a person would: clicking a (virtual) mouse and typing on a (virtual) keyboard.
+ Across sixteen months, our Sonnet models have made steady gains on OSWorld. The improvements can also be seen beyond benchmarks: early Sonnet 4.6 users are seeing human-level capability in tasks like navigating a complex spreadsheet or filling out a multi-step web form, before pulling it all together across multiple browser tabs.
+ The model certainly still lags behind the most skilled humans at using computers. But the rate of progress is remarkable nonetheless. It means that computer use is much more useful for a range of work tasks—and that substantially more capable models are within reach.
+ Scores prior to Claude Sonnet 4.5 were measured on the original OSWorld; scores from Sonnet 4.5 onward use OSWorld-Verified. OSWorld-Verified (released July 2025) is an in-place upgrade of the original OSWorld benchmark, with updates to task quality, evaluation grading, and infrastructure.
+ At the same time, computer use poses risks: malicious actors can attempt to hijack the model by hiding instructions on websites in what’s known as a prompt injection attack. We’ve been working to improve our models’ resistance to prompt injections—our safety evaluations show that Sonnet 4.6 is a major improvement compared to its predecessor, Sonnet 4.5, and performs similarly to Opus 4.6. You can find out more about how to mitigate prompt injections and other safety concerns in our API docs .
+
+ Evaluating Claude Sonnet 4.6
+ Beyond computer use, Claude Sonnet 4.6 has improved on benchmarks across the board. It approaches Opus-level intelligence at a price point that makes it more practical for far more tasks. You can find a full discussion of Sonnet 4.6’s capabilities and its safety-related behaviors in our system card ; a summary and comparison to other recent models is below.
+
+ In Claude Code, our early testing found that users preferred Sonnet 4.6 over Sonnet 4.5 roughly 70% of the time. Users reported that it more effectively read the context before modifying code and consolidated shared logic rather than duplicating it. This made it less frustrating to use over long sessions than earlier models.
+ Users even preferred Sonnet 4.6 to Opus 4.5, our frontier model from November, 59% of the time. They rated Sonnet 4.6 as significantly less prone to overengineering and “laziness,” and meaningfully better at instruction following. They reported fewer false claims of success, fewer hallucinations, and more consistent follow-through on multi-step tasks.
+ Sonnet 4.6’s 1M token context window is enough to hold entire codebases, lengthy contracts, or dozens of research papers in a single request. More importantly, Sonnet 4.6 reasons effectively across all that context. This can make it much better at long-horizon planning. We saw this particularly clearly in the Vending-Bench Arena evaluation, which tests how well a model can run a (simulated) business over time—and which includes an element of competition, with different AI models facing off against each other to make the biggest profits.
+ Sonnet 4.6 developed an interesting new strategy: it invested heavily in capacity for the first ten simulated months, spending significantly more than its competitors, and then pivoted sharply to focus on profitability in the final stretch. The timing of this pivot helped it finish well ahead of the competition.
+ Sonnet 4.6 outperforms Sonnet 4.5 on Vending-Bench Arena by investing in capacity early, then pivoting to profitability in the final stretch.
+ Early customers also reported broad improvements, with frontend code and financial analysis standing out. Customers independently described visual outputs from Sonnet 4.6 as notably more polished, with better layouts, animations, and design sensibility than those from previous models. Customers also needed fewer rounds of iteration to reach production-quality results.
+
+ Claude Sonnet 4.6 matches Opus 4.6 performance on OfficeQA, which measures how well a model can read enterprise documents (charts, PDFs, tables), pull the right facts, and reason from those facts. It’s a meaningful upgrade for document comprehension workloads.
+ Hanlin Tang
+ CTO of Neural Networks , Databricks
+
+ The performance-to-cost ratio of Claude Sonnet 4.6 is extraordinary—it’s hard to overstate how fast Claude models have been evolving in recent months. Sonnet 4.6 outperforms on our orchestration evals, handles our most complex agentic workloads, and keeps improving the higher you push the effort settings.
+ Michele Catasta
+ President , Replit
+
+ Claude Sonnet 4.6 is a notable improvement over Sonnet 4.5 across the board, including long-horizon tasks and more difficult problems.
+ Michael Truell
+ Co-founder and CEO , Cursor
+
+ Out of the gate, Claude Sonnet 4.6 is already excelling at complex code fixes, especially when searching across large codebases is essential. For teams running agentic coding at scale, we’re seeing strong resolution rates and the kind of consistency developers need.
+ Joe Binder
+ VP of Product , GitHub
+
+ Claude Sonnet 4.6 has meaningfully closed the gap with Opus on bug detection, letting us run more reviewers in parallel, catch a wider variety of bugs, and do it all without increasing cost.
+ Scott Wu
+ CEO , Cognition
+
+ For the first time, Sonnet brings frontier-level reasoning in a smaller and more cost-effective form factor. It provides a viable alternative if you are a heavy Opus user.
+ Jeff Wang
+ CEO , Windsurf
+
+ Claude Sonnet 4.6 meaningfully improves the answer retrieval behind our core product—we saw a significant jump in answer match rate compared to Sonnet 4.5 in our Financial Services Benchmark, with better recall on the specific workflows our customers depend on.
+ Aabhas Sharma
+ CTO , Hebbia
+
+ Box evaluated how Claude Sonnet 4.6 performs when tested on deep reasoning and complex agentic tasks across real enterprise documents. It demonstrated significant improvements, outperforming Claude Sonnet 4.5 in heavy reasoning Q&A by 15 percentage points.
+ Ben Kus
+ CTO , Box
+
+ Claude Sonnet 4.6 hit 94% on our insurance benchmark, making it the highest-performing model we’ve tested for computer use. This kind of accuracy is mission-critical to workflows like submission intake and first notice of loss.
+ Jamie Cuffe
+ CEO , Pace
+
+ Claude Sonnet 4.6 delivers frontier-level results on complex app builds and bug-fixing. It’s becoming our go-to for the kind of deep codebase work that used to require more expensive models.
+ Eric Simons
+ CEO , Bolt
+
+ Claude Sonnet 4.6 produced the best iOS code we’ve tested for Rakuten AI. Better spec compliance, better architecture, and it reached for modern tooling we didn’t ask for, all in one shot. The results genuinely surprised us.
+
+ Yusuke Kaji
+ General Manager, AI , Rakuten
+
+ Sonnet 4.6 is a significant leap forward on reasoning through difficult tasks. We find it especially strong on branched and multi-step tasks like contract routing, conditional template selection, and CRM coordination—exactly where our customers need strong model sense and reliability.
+ Wade Foster
+ Co-founder and CEO , Zapier
+
+ We’ve been impressed by how accurately Claude Sonnet 4.6 handles complex computer use. It’s a clear improvement over anything else we’ve tested in our evals.
+ Will Harvey
+ Co-founder , Convey
+
+ Claude Sonnet 4.6 has perfect design taste when building frontend pages and data reports, and it requires far less hand-holding to get there than anything we’ve tested before.
+ AJ Orbach
+ Co-founder , Triple Whale
+
+ Claude Sonnet 4.6 was exceptionally responsive to direction — delivering precise figures and structured comparisons when asked, while also generating genuinely useful ideas on trial strategy and exhibit preparation.
+ Niko Grupen
+ Head of Applied Research , Harvey
+
+ 01 / 15
+
+ Product updates
+ On the Claude Developer Platform, Sonnet 4.6 supports both adaptive thinking and extended thinking, as well as context compaction in beta, which automatically summarizes older context as conversations approach limits, increasing effective context length.
+ On our API, Claude’s web search and fetch tools now automatically write and execute code to filter and process search results , keeping only relevant content in context—improving both response quality and token efficiency. Additionally, code execution , memory , programmatic tool calling , tool search , and tool use examples are now generally available.
+ Sonnet 4.6 offers strong performance at any thinking effort, even with extended thinking off. As part of your migration from Sonnet 4.5, we recommend exploring across the spectrum to find the ideal balance of speed and reliable performance, depending on what you’re building.
+ We find that Opus 4.6 remains the strongest option for tasks that demand the deepest reasoning, such as codebase refactoring, coordinating multiple agents in a workflow, and problems where getting it just right is paramount.
+ For Claude in Excel users, our add-in now supports MCP connectors, letting Claude work with the other tools you use day-to-day, like S&P Global, LSEG, Daloopa, PitchBook, Moody’s, and FactSet. You can ask Claude to pull in context from outside your spreadsheet without ever leaving Excel. If you’ve already set up MCP connectors in Claude.ai, those same connections will work in Excel automatically. This is available on Pro, Max, Team, and Enterprise plans.
+ How to use Claude Sonnet 4.6
+ Claude Sonnet 4.6 is available now on all Claude plans , Claude Cowork , Claude Code , our API, and all major cloud platforms. We’ve also upgraded our free tier to Sonnet 4.6 by default—it now includes file creation, connectors, skills, and compaction.
+ If you’re a developer, you can get started quickly by using claude-sonnet-4-6 via the Claude API ."
+Anthropic opens Bengaluru office and announces new partnerships across India,https://www.anthropic.com/news/bengaluru-office-partnerships-across-india,"Mon, 16 Feb 2026 00:00:00 +0000","Announcements
+ Anthropic opens Bengaluru office and announces new partnerships across India
+ Feb 16, 2026
+
+ India is the second-largest market for Claude.ai , home to a developer community doing some of the most technically intense AI work we see anywhere. Nearly half of Claude usage in India comprises computer and mathematical tasks: building applications, modernizing systems, and shipping production software.
+ Today, as we officially open our Bengaluru office, we’re announcing partnerships across enterprise, education, and agriculture that deepen our commitment to India across a range of sectors.
+ “India represents one of the world’s most promising opportunities to bring the benefits of responsible AI to vastly more people and enterprises,” said Irina Ghose, Managing Director of India, Anthropic. “Already, it’s home to extraordinary technical talent, digital infrastructure at scale, and a proven track record of using technology to improve people’s lives. That’s exactly the foundation you need to make sure this technology reaches the people who can benefit from it most.”
+ Building language capabilities for a billion speakers
+ More than a billion people in India speak one of over a dozen officially recognized languages, but AI models continue to perform better in English than they do in other languages. Six months ago, we launched a company-wide effort to narrow this gap by curating higher-quality, more representative training data in 10 of the most widely spoken languages throughout India: Hindi, Bengali, Marathi, Telugu, Tamil, Punjabi, Gujarati, Kannada, Malayalam, and Urdu. This resulted in improvements to our models, and we continue to work on enhancing their fluency.
+ Now, Anthropic is working with Karya and the Collective Intelligence Project to build evaluations testing performance on locally relevant tasks across domains like agriculture and law, in partnership with domain experts from leading Indian nonprofits, including Digital Green and Adalat AI . This work will inform how we improve future models for speakers of Indic languages and for use cases important to India and the businesses that use Claude. We intend to make the evaluations publicly available for others to use.
+ Partnering with enterprises, digital natives, and startups
+ Our run-rate revenue in India has doubled since we announced our expansion in October 2025, and the range of organizations building on Claude reflects how broadly that growth is distributed—from large enterprises to digital-native companies to startups shipping their first products.
+ To support this growing customer base, our India team will offer applied AI expertise to enterprise customers, digital natives, and startups, helping them design, build, and scale Claude-powered solutions tailored to their business needs.
+ Air India is using Claude Code to help developers ship custom software faster and at lower cost, as part of a broader push to use agentic AI across its operations. CRED achieved 2x faster feature delivery and 10% better test coverage with Claude Code. And Cognizant is deploying Claude to 350,000 employees globally to modernize legacy systems, accelerate software development, and support AI adoption among its enterprise clients.
+ Among India’s startups, the story is similar. At Razorpay , AI is integrated into risk systems, decision-making processes, and operations across the company. Rocket uses Claude to let non-technical teams across enterprises build production-ready apps and websites in minutes and hours rather than weeks. At Enterpret , Claude powers its AI assistant, the engineering team builds with Claude Code daily, and the startup has shipped an MCP integration that brings customer insights directly into Claude. And Emergent , an AI-powered platform that lets anyone build software by describing what they want in plain language, reached $25 million in annual recurring revenue and two million users in under five months, built entirely with Claude.
+ Reaching students in low-income communities
+ Educational and instructional tasks make up 12% of Claude.ai use in India. Pratham , one of India’s largest education nonprofits, chose Anthropic as its first strategic AI lab partner because of our shared focus on safety and educational rigor. Their Anytime Testing Machine, powered by Claude, is currently being piloted with 1,500 students across 20 schools, with plans to expand to 100 schools by the end of 2026. Adapted earlier this year for over 5,000 learners in Pratham’s Second Chance program, which supports women who have dropped out of formal schooling, the Anytime Testing Machine aims to create flexible, credible pathways for learning and certification by helping students practice for exams.
+ Anthropic is collaborating with Central Square Foundation to use EdTech and AI more effectively to educate children from underserved communities. As part of this collaboration, Anthropic will provide technical expertise, mentorship, and API credits to organizations developing AI-enabled tools—including personalized tutors, teacher coaching solutions, and assessment-driven instruction—with the goal of reaching more primary school students across India.
+ Incorporating AI into the public sector
+ India has a track record of building interoperable digital public infrastructure that improves people’s lives. Anthropic is partnering with the EkStep Foundation to explore how AI can build on these efforts and deliver population-scale impact in the domains that matter most to India. Agriculture is one example. It makes up nearly a sixth of the Indian economy and employs nearly half of the labor force . Using the OpenAgriNet effort, we are working towards deployments of Claude that expand access to expert knowledge in this critical sector.
+ We’re also demonstrating how Claude Code and Cowork can have an impact within nonprofits themselves—including Noora Health , which delivers accessible health coaching to millions of families, and Intelehealth , which connects patients in remote communities to quality medical care.
+ India has 50 million pending court cases, and routine updates often take months to reach litigants. Accessing case information typically requires repeated court visits or intermediaries to navigate paper files and legal jargon. Anthropic is supporting Adalat AI to improve access to judicial services with a national WhatsApp helpline , launching today. Using Claude, it provides instant case updates as well as translation, document summarization, and interactive querying of legal documents in native Indian languages.
+ Driving adoption through open-source standards
+ Anthropic created the Model Context Protocol (MCP) as a universal open-source standard for connecting AI applications to external systems, and recently donated it to the Linux Foundation .
+ The Indian Ministry of Statistics and Programme Implementation (MoSPI), with the support of nonprofit Bharat Digital , recently launched the first official Indian government MCP server , enabling users of AI systems to access and query authoritative national statistics in an open and interoperable manner. In the private sector, Swiggy uses the MCP to allow people to order groceries and make dining reservations directly through Claude.
+ Growing Anthropic’s presence in India
+ These partnerships will grow in the coming months and years through our expanded presence in India. Our new Bengaluru office—Anthropic’s second in Asia after Tokyo —has officially opened. Led by Managing Director of India Irina Ghose , an enterprise and startup technology leader, the office will focus on hiring local talent across a wide array of roles.
+ For information about career opportunities at our Bengaluru office, visit our careers page ."
+Chris Liddell appointed to Anthropic’s board of directors,https://www.anthropic.com/news/chris-liddell-appointed-anthropic-board,"Fri, 13 Feb 2026 00:00:00 +0000","Announcements
+ Chris Liddell appointed to Anthropic’s board of directors
+ Feb 13, 2026
+
+ Chris Liddell has been appointed to Anthropic’s Board of Directors. He brings over 30 years of senior leadership experience across some of the world's largest and most complex organizations to the role. He previously served as Chief Financial Officer of Microsoft, General Motors, and International Paper, as well as the Deputy White House Chief of Staff during President Trump’s first term.
+
+ “Chris has spent his career at the intersection of technology, public service, and governance—and has a track record of helping organizations get those things right when the stakes are highest,” said Daniela Amodei, Co-founder and President of Anthropic. “As AI’s impact on society grows, that kind of judgement and experience is exactly what we seek on our board.”
+
+ Liddell joins Dario Amodei, Daniela Amodei, Yasmin Razavi , Jay Kreps , and Reed Hastings on Anthropic’s Board of Directors. Anthropic is a Public Benefit Corporation and its Board is elected by stockholders and the Long-Term Benefit Trust, as detailed here .
+
+ “My career has taught me the governance of transformative technologies matters as much as the technologies themselves,” said Chris Liddell. “Anthropic’s approach—building AI that’s both capable and responsible—is critical for our future, and it’s why I’m proud to be joining the company’s Board.”
+
+ Liddell currently serves as a Director of both Commonwealth Fusion Systems and the Council on Foreign Relations. He has also been involved in several presidential transition teams, has written a book on that topic, and was the Director of the American Technology Council in the White House, focused on modernizing government technology.
+
+ Beyond his corporate and public service career, Liddell has been recognized for his contributions to business and philanthropy. He currently serves as Chairman of New Zealand’s largest environmental foundation and has sat on several nonprofit boards, including the New Zealand Rugby Union. In 2016, he was appointed a Companion of the New Zealand Order of Merit for services to business and philanthropy."
+Anthropic partners with CodePath to bring Claude to the US’s largest collegiate computer science program,https://www.anthropic.com/news/anthropic-codepath-partnership,"Fri, 13 Feb 2026 00:00:00 +0000","Announcements
+ Anthropic partners with CodePath to bring Claude to the US’s largest collegiate computer science program
+ Feb 13, 2026
+
+ Anthropic is partnering with CodePath, the nation’s largest provider of collegiate computer science education, to redesign its coding curriculum as AI reshapes the field of software development. CodePath will put Claude and Claude Code at the center of its courses and career programs, giving more than 20,000 students at community colleges, state schools, and HBCUs access to frontier AI tools as part of their education.
+ Over 40% of CodePath students come from families earning under $50,000 a year, and CodePath aims to provide them with industry-vetted courses and access to career networks traditionally reserved for students at wealthier institutions.
+ What we’re building
+ CodePath is integrating Claude into its AI courses—including Foundations of AI Engineering, Applications of AI Engineering, and AI Open-Source Capstone—so students can learn to build with tools like Claude Code and contribute to real-world open-source projects.
+ In the fall of 2025, over 100 CodePath students piloted Claude Code to contribute to open-source projects like GitLab, Puter, and Dokploy. Students said they found the experience both valuable and challenging. “Claude Code was instrumental in my learning process, especially since I came into the project with very little experience in the programming languages used in the repository [including TypeScript and Node.js],” said Laney Hood, CodePath student and computer science major at Texas Tech University.
+ In January, Howard University announced a redesigned Intro to Artificial Intelligence course, developed in partnership with CodePath and the Thurgood Marshall College Fund. The course gives students experience with Claude-assisted software development, preparing them for the type of work that now defines entry-level engineering roles. It represents the first time CodePath’s applied AI curriculum is being offered for academic credit at a university.
+ “We now have the technology to teach in two years what used to take four,” said Michael Ellison, Co-founder and CEO of CodePath. “But speed for some and not others just widens inequality. Partnering with Anthropic means our students learn to build with Claude from day one, at institutions that have historically been overlooked. This results in better outcomes for our students and a fundamentally different answer to who gets to shape the AI economy.”
+ Beyond the classroom, Anthropic and CodePath will collaborate on public research exploring how AI is changing coding education and the dynamics of economic opportunity. We’ll share what we learn from students, educators, and industry leaders about what’s working—and what isn’t—as AI changes how people build technical skills and enter the workforce.
+ A broader commitment to AI education
+ This partnership builds on Anthropic’s work to put AI tools in the hands of educators and students. We’re partnering with the American Federation of Teachers (AFT) to offer free AI training to their 1.8 million members across the US. In Iceland , we launched one of the world’s first national AI education pilots with the Ministry of Education and Children, giving teachers across the country access to Claude. In Rwanda , we’re working with the government and ALX to bring a Claude-powered learning companion to hundreds of thousands of students and young professionals across Africa. We also signed the White House’s “ Pledge to America’s Youth: Investing in AI Education ,” committing to expand AI education nationwide through investments in cybersecurity education, the Presidential AI Challenge, and a free AI curriculum for educators.
+ The tools changing how software is built shouldn’t only be available to students at well-resourced universities. With CodePath, they won’t be."
+Anthropic is donating $20 million to Public First Action,https://www.anthropic.com/news/donate-public-first-action,"Thu, 12 Feb 2026 00:00:00 +0000","Policy
+ Anthropic is donating $20 million to Public First Action
+ Feb 12, 2026
+
+ AI will bring enormous benefits —for science, technology, medicine, economic growth, and much more. But a technology this powerful also comes with considerable risks .
+ Those risks might come from the misuse of the models: AI is already being exploited to automate cyberattacks ; in the future it might assist in the production of dangerous weapons . Risks might also come from the models themselves: powerful AI systems can take harmful actions contrary to the intentions—and out of the control—of their users.
+ AI models are improving in their capabilities at a dizzying, increasing pace , from simple chatbots in 2023 to today’s “agents” that complete complex tasks. At Anthropic, we’ve had to redesign a notoriously difficult technical test for hiring software engineers multiple times as successive AI models defeated each version. This rate of progress will not be confined to software engineering; indeed, many other professions are already seeing an impact .
+ Consequently, the AI policy decisions we make in the next few years will touch nearly every part of public life, from the labor market to online child protection to national security and the balance of power between nations.
+ In circumstances like these, we need good policy: flexible regulation that allows us to reap the benefits of AI, keep the risks in check, and keep America ahead in the AI race. That means keeping critical AI technology out of the hands of America’s adversaries, maintaining meaningful safeguards, promoting job growth, protecting children, and demanding real transparency from the companies building the most powerful AI models.
+ We don’t want to sit on the sidelines while these policies are developed. For that reason, Anthropic is contributing $20 million to Public First Action , a new bipartisan 501(c)(4) that will support public education about AI, promote safeguards, and ensure America leads the AI race.
+ Recent polling finds that 69% of Americans think the government is “not doing enough to regulate the use of AI.” We agree. AI is being adopted faster than any technology in history, and the window to get policy right is closing. Yet there are no official guardrails in place and there is no federal framework on the horizon.
+ At present, there are few organized efforts to help mobilize people and politicians who understand what’s at stake in AI development. Instead, vast resources have flowed to political organizations that oppose these efforts.
+ Public First Action is working to fill that gap. Founded and led both by Republican and Democratic strategists, it works across party lines to support policies on AI governance.
+ The organization will work with Republicans, Democrats, and Independents who share the same policy priorities:
+ Insisting on AI model transparency safeguards that give the public more visibility into—and thus, greater confidence that—frontier AI companies are responsibly managing risks;
+ Supporting a robust federal AI governance framework — and opposing preemption of state laws unless Congress enacts stronger safeguards;
+ Supporting smart export controls on AI chips that will keep America ahead of its authoritarian adversaries;
+ Pursuing targeted regulation focused on the nearest-term high risks: AI-enabled biological weapons and cyberattacks
+
+ These policies aren’t partisan. Nor are they for the benefit of Anthropic as an AI developer—effective AI governance means more scrutiny of companies like ours, not less. They’re also not an attempt to hold back smaller or less well-resourced developers: our view is that transparency regulation, for example, should apply only to companies developing the most powerful (and most dangerous) AI models.
+ The companies building AI have a responsibility to help ensure the technology serves the public good, not just their own interests. Our contribution to Public First Action is part of our commitment to governance that enables AI’s transformative potential and helps proportionately manage its risks."
+Anthropic raises $30 billion in Series G funding at $380 billion post-money valuation,https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation,"Thu, 12 Feb 2026 00:00:00 +0000","Announcements
+ Anthropic raises $30 billion in Series G funding at $380 billion post-money valuation
+ Feb 12, 2026
+
+ We have raised $30 billion in Series G funding led by GIC and Coatue, valuing Anthropic at $380 billion post-money. The round was co-led by D. E. Shaw Ventures, Dragoneer, Founders Fund, ICONIQ, and MGX. The investment will fuel the frontier research, product development, and infrastructure expansions that have made Anthropic the market leader in enterprise AI and coding.
+
+ Significant investors in this round include: Accel, Addition, Alpha Wave Global, Altimeter, AMP PBC, Appaloosa LP, Baillie Gifford, Bessemer Venture Partners, affiliated funds of BlackRock, Blackstone, D1 Capital Partners, Fidelity Management & Research Company, General Catalyst, Greenoaks, Growth Equity at Goldman Sachs Alternatives, Insight Partners, Jane Street, JPMorganChase through its Security and Resiliency Initiative and Growth Equity Partners, Lightspeed Venture Partners, Menlo Ventures, Morgan Stanley Investment Management, NX1 Capital, Qatar Investment Authority (QIA), Sands Capital, Sequoia Capital, Temasek, TowerBrook, TPG, Whale Rock Capital, and XN. This round also includes a portion of the previously announced investments from Microsoft and NVIDIA.
+
+ “Whether it is entrepreneurs, startups, or the world’s largest enterprises, the message from our customers is the same: Claude is increasingly becoming critical to how businesses work,” said Krishna Rao, Anthropic’s Chief Financial Officer. “This fundraising reflects the incredible demand we are seeing from these customers, and we will use this investment to continue building the enterprise-grade products and models they have come to depend on.”
+
+ It has been less than three years since Anthropic earned its first dollar in revenue. Today, our run-rate revenue is $14 billion, with this figure growing over 10x annually in each of those past three years.
+
+ This growth has been driven by our position as the intelligence platform of choice for enterprises and developers. The number of customers spending over $100,000 annually on Claude (as represented by run-rate revenue) has grown 7x in the past year. And businesses that start with Claude for a single use case—API, Claude Code, or Claude for Work—are expanding their integrations across their organizations. Two years ago, a dozen customers spent over $1 million with us on an annualized basis. Today that number exceeds 500. Eight of the Fortune 10 are now Claude customers.
+
+ Claude Code represents a new era of agentic coding, fundamentally changing how teams build software. Claude Code was made available to the general public in May 2025. Today, Claude Code’s run-rate revenue has grown to over $2.5 billion; this figure has more than doubled since the beginning of 2026. The number of weekly active Claude Code users has also doubled since January 1. A recent analysis estimated that 4% of all GitHub public commits worldwide were being authored by Claude Code—double the percentage from just one month prior.
+
+ Business subscriptions to Claude Code have quadrupled since the start of 2026, and enterprise use has grown to represent over half of all Claude Code revenue. The same capabilities that make Claude exceptional for coding are also unlocking other new categories of work: financial and data analysis , sales , cybersecurity , scientific discovery , and beyond.
+
+ In January alone, we launched more than thirty products and features, including Cowork , which brings Claude Code’s powerful engineering capabilities to a broader scope of knowledge work tasks. Cowork includes eleven open-source plugins that let customers turn Claude into a specialist for specific roles or teams, like sales, legal, or finance. We also expanded our reach into healthcare and life sciences , with Claude for Enterprise now available to organizations operating under HIPAA.
+
+ “Since our initial investment in 2025, Anthropic’s focus on agentic coding and enterprise-grade AI systems has accelerated its progress toward large-scale adoption,” said Philippe Laffont, Founder & Portfolio Manager of Coatue. “The team’s ability to rapidly scale its offerings further positions Anthropic as a leader in a highly competitive AI market.”
+
+ Claude’s frontier-setting intelligence continues to advance. Our newest model— Opus 4.6 , launched last week—can power agents that manage entire categories of real-world work, generating documents, spreadsheets, and presentations with professional polish. And Opus 4.6 is the world’s leading model on GDPval-AA , which measures performance on economically valuable knowledge work tasks in finance, legal, and other domains.
+
+ “Anthropic is the clear category leader in enterprise AI, demonstrating breakthrough capabilities and setting a new standard for safety, performance, and scale that will drive their long-term success,” said Choo Yong Cheen, Chief Investment Officer, Private Equity, GIC.
+
+ The Series G will also power our infrastructure expansion as we make Claude available everywhere our customers are. Claude remains the only frontier AI model available to customers on all three of the world's largest cloud platforms: Amazon Web Services (Bedrock), Google Cloud (Vertex AI), and Microsoft Azure (Foundry). We train and run Claude on a diversified range of AI hardware—AWS Trainium, Google TPUs, and NVIDIA GPUs—which means we can match workloads to the chips best suited for them. This diversity of platforms translates to better performance and greater resilience for the enterprise customers that depend on Claude for critical work.
+
+ The demand we are seeing from enterprises and developers reflects the trust they place in Claude for the work that matters most. As AI moves toward scaled implementation, we will continue to build the models, products, and partnerships to lead that transition."
+Covering electricity price increases from our data centers,https://www.anthropic.com/news/covering-electricity-price-increases,"Wed, 11 Feb 2026 00:00:00 +0000","Policy
+ Covering electricity price increases from our data centers
+ Feb 11, 2026
+
+ As we continue to invest in American AI infrastructure , Anthropic will cover electricity price increases that consumers face from our data centers.
+
+ Training a single frontier AI model will soon require gigawatts of power, and the US AI sector will need at least 50 gigawatts of capacity over the next several years. The country needs to build new data centers quickly to maintain its competitiveness on AI and national security—but AI companies shouldn’t leave American ratepayers to pick up the tab.
+
+ Data centers can raise consumer electricity prices in two main ways. First, connecting data centers to the grid often requires costly new or upgraded infrastructure like transmission lines or substations. Second, new demand tightens the market, pushing up prices. We’re committing to address both. Specifically, we will:
+
+ Cover grid infrastructure costs . We will pay for 100% of the grid upgrades needed to interconnect our data centers, paid through increases to our monthly electricity charges. This includes the shares of these costs that would otherwise be passed onto consumers.
+ Procure new power and protect consumers from price increases . We will work to bring net-new power generation online to match our data centers’ electricity needs. Where new generation isn’t online, we’ll work with utilities and external experts to estimate and cover demand-driven price effects from our data centers.
+ Reduce strain on the grid . We’re investing in curtailment systems that cut our data centers’ power usage during periods of peak demand, as well as grid optimization tools, both of which help keep prices lower for ratepayers.
+ Invest in local communities. Our current data center projects will create hundreds of permanent jobs and thousands of construction jobs. We’re also committed to being a responsible neighbor—that means addressing environmental impacts, including deploying water-efficient cooling technologies, and partnering with local leaders on initiatives that share AI’s benefits broadly.
+
+ Where we work with partners to develop data centers for handling our own workloads, we make these commitments directly. Where we lease capacity from existing data centers, we’re exploring further ways to address our own workloads' effects on prices.
+
+ Of course, company-level action isn't enough. Keeping electricity affordable also requires systemic change. We support federal policies —including permitting reform and efforts to speed up transmission development and grid interconnection—that make it faster and cheaper to bring new energy online for everyone.
+
+ Done right, AI infrastructure can be a catalyst for the broader energy investment the country needs. These commitments are the beginning of our efforts to address data centers’ impact on energy costs. We have more to do, and we’ll continue to share updates as this work develops."
+Introducing Claude Opus 4.6,https://www.anthropic.com/news/claude-opus-4-6,"Thu, 05 Feb 2026 00:00:00 +0000","Announcements
+ Introducing Claude Opus 4.6
+ Feb 5, 2026
+
+ We’re upgrading our smartest model.
+
+ The new Claude Opus 4.6 improves on its predecessor’s coding skills. It plans more carefully, sustains agentic tasks for longer, can operate more reliably in larger codebases, and has better code review and debugging skills to catch its own mistakes. And, in a first for our Opus-class models, Opus 4.6 features a 1M token context window in beta 1 .
+ Opus 4.6 can also apply its improved abilities to a range of everyday work tasks: running financial analyses, doing research, and using and creating documents, spreadsheets, and presentations. Within Cowork , where Claude can multitask autonomously, Opus 4.6 can put all these skills to work on your behalf.
+ The model’s performance is state-of-the-art on several evaluations. For example, it achieves the highest score on the agentic coding evaluation Terminal-Bench 2.0 and leads all other frontier models on Humanity’s Last Exam , a complex multidisciplinary reasoning test. On GDPval-AA —an evaluation of performance on economically valuable knowledge work tasks in finance, legal, and other domains 2 —Opus 4.6 outperforms the industry’s next-best model (OpenAI’s GPT-5.2) by around 144 Elo points, 3 and its own predecessor (Claude Opus 4.5) by 190 points. Opus 4.6 also performs better than any other model on BrowseComp , which measures a model’s ability to locate hard-to-find information online.
+ As we show in our extensive system card , Opus 4.6 also shows an overall safety profile as good as, or better than, any other frontier model in the industry, with low rates of misaligned behavior across safety evaluations.
+ Knowledge work Agentic search Coding Reasoning
+ Opus 4.6 is state-of-the-art on real-world work tasks across several professional domains.
+ Opus 4.6 gets the highest score in the industry for deep, multi-step agentic search.
+ Opus 4.6 excels at real-world agentic coding and system tasks.
+ Opus 4.6 extends the frontier of expert-level reasoning.
+
+ In Claude Code, you can now assemble agent teams to work on tasks together. On the API, Claude can use compaction to summarize its own context and perform longer-running tasks without bumping up against limits. We’re also introducing adaptive thinking , where the model can pick up on contextual clues about how much to use its extended thinking, and new effort controls to give developers more control over intelligence, speed, and cost.
+ We’ve made substantial upgrades to Claude in Excel , and we’re releasing Claude in PowerPoint in a research preview. This makes Claude much more capable for everyday work.
+
+ Claude Opus 4.6 is available today on claude.ai , our API, and all major cloud platforms. If you’re a developer, use claude-opus-4-6 via the Claude API . Pricing remains the same at $5/$25 per million tokens; for full details, see our pricing page .
+
+ We cover the model, our new product updates, our evaluations, and our extensive safety testing in depth below.
+ First impressions
+ We build Claude with Claude. Our engineers write code with Claude Code every day, and every new model first gets tested on our own work. With Opus 4.6, we’ve found that the model brings more focus to the most challenging parts of a task without being told to, moves quickly through the more straightforward parts, handles ambiguous problems with better judgment, and stays productive over longer sessions.
+
+ Opus 4.6 often thinks more deeply and more carefully revisits its reasoning before settling on an answer. This produces better results on harder problems, but can add cost and latency on simpler ones. If you’re finding that the model is overthinking on a given task, we recommend dialing effort down from its default setting (high) to medium. You can control this easily with the /effort parameter .
+
+ Here are some of the things our Early Access partners told us about Claude Opus 4.6, including its propensity to work autonomously without hand-holding, its success where previous models failed, and its effect on how teams work:
+
+ Claude Opus 4.6 is the strongest model Anthropic has shipped. It takes complicated requests and actually follows through, breaking them into concrete steps, executing, and producing polished work even when the task is ambitious. For Notion users, it feels less like a tool and more like a capable collaborator.
+ Sarah Sachs
+ AI Lead , Notion
+
+ Early testing shows Claude Opus 4.6 delivering on the complex, multi-step coding work developers face every day—especially agentic workflows that demand planning and tool calling. This starts unlocking long-horizon tasks at the frontier.
+ Mario Rodriguez
+ Chief Product Officer , GitHub
+
+ Claude Opus 4.6 is a huge leap for agentic planning. It breaks complex tasks into independent subtasks, runs tools and subagents in parallel, and identifies blockers with real precision.
+ Michele Catasta
+ President , Replit
+
+ Claude Opus 4.6 is the best model we've tested yet. Its reasoning and planning capabilities have been exceptional at powering our AI Teammates. It's also a fantastic coding model – its ability to navigate a large codebase and identify the right changes to make is state of the art.
+ Amritansh Raghav
+ Interim CTO , Asana
+
+ Claude Opus 4.6 reasons through complex problems at a level we haven't seen before. It considers edge cases that other models miss and consistently lands on more elegant, well-considered solutions. We're particularly impressed with Opus 4.6 in Devin Review, where it's increased our bug catching rates.
+ Scott Wu
+ CEO , Cognition
+
+ Claude Opus 4.6 feels noticeably better than Opus 4.5 in Windsurf, especially on tasks that require careful exploration like debugging and understanding unfamiliar codebases. We’ve noticed Opus 4.6 thinks longer, which pays off when deeper reasoning is needed.
+ Jeff Wang
+ CEO , Windsurf
+
+ Claude Opus 4.6 represents a meaningful leap in long-context performance. In our testing, we saw it handle much larger bodies of information with a level of consistency that strengthens how we design and deploy complex research workflows. Progress in this area gives us more powerful building blocks to deliver truly expert-grade systems professionals can trust.
+ Joel Hron
+ Chief Technology Officer , Thomson Reuters
+
+ Across 40 cybersecurity investigations, Claude Opus 4.6 produced the best results 38 of 40 times in a blind ranking against Claude 4.5 models. Each model ran end to end on the same agentic harness with up to 9 subagents and 100+ tool calls.
+ Stian Kirkeberg
+ Head of AI & ML , NBIM
+
+ Claude Opus 4.6 is the new frontier on long-running tasks from our internal benchmarks and testing. It's also been highly effective at reviewing code.
+ Michael Truell
+ Co-founder & CEO , Cursor
+
+ Claude Opus 4.6 achieved the highest BigLaw Bench score of any Claude model at 90.2%. With 40% perfect scores and 84% above 0.8, it’s remarkably capable for legal reasoning.
+ Niko Grupen
+ Head of AI Research , Harvey
+
+ Claude Opus 4.6 autonomously closed 13 issues and assigned 12 issues to the right team members in a single day, managing a ~50-person organization across 6 repositories. It handled both product and organizational decisions while synthesizing context across multiple domains, and it knew when to escalate to a human.
+ Yusuke Kaji
+ General Manager, AI , Rakuten
+
+ Claude Opus 4.6 is an uplift in design quality. It works beautifully with our design systems and it’s more autonomous, which is core to Lovable’s values. People should be creating things that matter, not micromanaging AI.
+ Fabian Hedin
+ Co-founder , Lovable
+
+ Claude Opus 4.6 excels in high-reasoning tasks like multi-source analysis across legal, financial, and technical content. Box’s eval showed a 10% lift in performance, reaching 68% vs. a 58% baseline, and near-perfect scores in technical domains.
+ Yashodha Bhavnani
+ Head of AI , Box
+
+ Claude Opus 4.6 generates complex, interactive apps and prototypes in Figma Make with an impressive creative range. The model translates detailed designs and multi-layered tasks into code on the first try, making it a powerful starting point for teams to explore and build ideas.
+ Loredana Crisan
+ Chief Design Officer , Figma
+
+ Claude Opus 4.6 is the best Anthropic model we’ve tested. It understands intent with minimal prompting and went above and beyond, exploring and creating details I didn’t even know I wanted until I saw them. It felt like I was working with the model, not waiting on it.
+ Paulo Arruda
+ Staff Engineer , Shopify
+
+ Both hands-on testing and evals show Claude Opus 4.6 is a meaningful improvement for design systems and large codebases, use cases that drive enormous enterprise value. It also one-shotted a fully functional physics engine, handling a large multi-scope task in a single pass.
+ Eric Simons
+ CEO , Bolt.new
+
+ Claude Opus 4.6 is the biggest leap I’ve seen in months. I’m more comfortable giving it a sequence of tasks across the stack and letting it run. It’s smart enough to use subagents for the individual pieces.
+ Jerry Tsui
+ Staff Software Engineer , Ramp
+
+ Claude Opus 4.6 handled a multi-million-line codebase migration like a senior engineer. It planned up front, adapted its strategy as it learned, and finished in half the time.
+ Gregor Stewart
+ Chief AI Officer , SentinelOne
+
+ We only ship models in v0 when developers will genuinely feel the difference. Claude Opus 4.6 passed that bar with ease. Its frontier-level reasoning, especially with edge cases, helps v0 to deliver on our number-one aim: to let anyone elevate their ideas from prototype to production.
+ Zeb Hermann
+ General Manager, v0 , Vercel
+
+ The performance jump with Claude Opus 4.6 feels almost unbelievable. Real-world tasks that were challenging for Opus [4.5] suddenly became easy. This feels like a watershed moment for spreadsheet agents on Shortcut.
+ Nico Christie
+ Co-founder & CTO , Shortcut.ai
+
+ 01 / 20
+
+ Evaluating Claude Opus 4.6
+ Across agentic coding, computer use, tool use, search, and finance , Opus 4.6 is an industry-leading model, often by a wide margin. The table below shows how Claude Opus 4.6 compares to our previous models and to other industry models on a variety of benchmarks.
+
+ Opus 4.6 is much better at retrieving relevant information from large sets of documents. This extends to long-context tasks, where it holds and tracks information over hundreds of thousands of tokens with less drift, and picks up buried details that even Opus 4.5 would miss.
+
+ A common complaint about AI models is “ context rot ,” where performance degrades as conversations exceed a certain number of tokens. Opus 4.6 performs markedly better than its predecessors: on the 8-needle 1M variant of MRCR v2 —a needle-in-a-haystack benchmark that tests a model’s ability to retrieve information “hidden” in vast amounts of text—Opus 4.6 scores 76%, whereas Sonnet 4.5 scores just 18.5%. This is a qualitative shift in how much context a model can actually use while maintaining peak performance.
+
+ All in all, Opus 4.6 is better at finding information across long contexts, better at reasoning after absorbing that information, and has substantially better expert-level reasoning abilities in general.
+
+ Long-context retrieval Long-context reasoning
+ Opus 4.6 shows significant improvement in long-context retrieval.
+ Opus 4.6 excels at deep reasoning across long contexts.
+
+ Finally, the charts below show how Claude Opus 4.6 performs on a variety of benchmarks that assess its software engineering skills, multilingual coding ability, long-term coherence, cybersecurity capabilities, and its life sciences knowledge.
+ Root cause analysis Multilingual coding Long-term coherence Cybersecurity Life sciences
+ Opus 4.6 excels at diagnosing complex software failures.
+ Opus 4.6 resolves software engineering issues across programming languages.
+ Opus 4.6 maintains focus over time and earns $3,050.53 more than Opus 4.5 on Vending-Bench 2.
+ Opus 4.6 finds real vulnerabilities in codebases better than any other model.
+ Opus 4.6 performs almost 2× better than Opus 4.5 on computational biology, structural biology, organic chemistry, and phylogenetics tests.
+
+ A step forward on safety
+ These intelligence gains do not come at the cost of safety. On our automated behavioral audit, Opus 4.6 showed a low rate of misaligned behaviors such as deception, sycophancy, encouragement of user delusions, and cooperation with misuse. Overall, it is just as well-aligned as its predecessor, Claude Opus 4.5, which was our most-aligned frontier model to date. Opus 4.6 also shows the lowest rate of over-refusals—where the model fails to answer benign queries—of any recent Claude model.
+ The overall misaligned behavior score for each recent Claude model on our automated behavioral audit (described in full in the Claude Opus 4.6 system card ).
+ For Claude Opus 4.6, we ran the most comprehensive set of safety evaluations of any model, applying many different tests for the first time and upgrading several that we’ve used before. We included new evaluations for user wellbeing, more complex tests of the model’s ability to refuse potentially dangerous requests, and updated evaluations of the model’s ability to surreptitiously perform harmful actions. We also experimented with new methods from interpretability , the science of the inner workings of AI models, to begin to understand why the model behaves in certain ways—and, ultimately, to catch problems that standard testing might miss.
+
+ A detailed description of all capability and safety evaluations is available in the Claude Opus 4.6 system card .
+
+ We’ve also applied new safeguards in areas where Opus 4.6 shows particular strengths that might be put to dangerous as well as beneficial uses. In particular, since the model shows enhanced cybersecurity abilities, we’ve developed six new cybersecurity probes —methods of detecting harmful responses—to help us track different forms of potential misuse.
+ We’re also accelerating the cyber defensive uses of the model, using it to help find and patch vulnerabilities in open-source software (as we describe in our new cybersecurity blog post ). We think it’s critical that cyberdefenders use AI models like Claude to help level the playing field. Cybersecurity moves fast, and we’ll be adjusting and updating our safeguards as we learn more about potential threats; in the near future, we may institute real-time intervention to block abuse.
+ Product and API updates
+ We’ve made substantial updates across Claude, Claude Code, and the Claude Developer Platform to let Opus 4.6 perform at its best.
+
+ Claude Developer Platform
+ On the API, we’re giving developers better control over model effort and more flexibility for long-running agents. To do so, we’re introducing the following features:
+ Adaptive thinking. Previously, developers only had a binary choice between enabling or disabling extended thinking. Now, with adaptive thinking , Claude can decide when deeper reasoning would be helpful. At the default effort level (high), the model uses extended thinking when useful, but developers can adjust the effort level to make it more or less selective.
+ Effort. There are now four effort levels to choose from: low, medium, high (default), and max. We encourage developers to experiment with different options to find what works best.
+ Context compaction (beta). Long-running conversations and agentic tasks often hit the context window. Context compaction automatically summarizes and replaces older context when the conversation approaches a configurable threshold, letting Claude perform longer tasks without hitting limits.
+ 1M token context (beta). Opus 4.6 is our first Opus-class model with 1M token context. Premium pricing applies for prompts exceeding 200k tokens ($10/$37.50 per million input/output tokens), available only on the Claude Developer Platform.
+ 128k output tokens. Opus 4.6 supports outputs of up to 128k tokens, which lets Claude complete larger-output tasks without breaking them into multiple requests.
+ US-only inference. For workloads that need to run in the United States, US-only inference is available at 1.1× token pricing.
+
+ Product updates
+ Across Claude and Claude Code, we’ve added features that allow knowledge workers and developers to tackle harder tasks with more of the tools they use every day.
+ We’ve introduced agent teams in Claude Code as a research preview. You can now spin up multiple agents that work in parallel as a team and coordinate autonomously—best for tasks that split into independent, read-heavy work like codebase reviews. You can take over any subagent directly using Shift+Up/Down or tmux .
+ Claude now also works better with the office tools you already use. Claude in Excel handles long-running and harder tasks with improved performance, and can plan before acting, ingest unstructured data and infer the right structure without guidance, and handle multi-step changes in one pass. Pair that with Claude in PowerPoint, and you can first process and structure your data in Excel, then bring it to life visually in PowerPoint. Claude reads your layouts, fonts, and slide masters to stay on brand, whether you’re building from a template or generating a full deck from a description. Claude in PowerPoint is now available in research preview for Max, Team, and Enterprise plans."
+Claude is a space to think,https://www.anthropic.com/news/claude-is-a-space-to-think,"Wed, 04 Feb 2026 00:00:00 +0000","Announcements
+ Claude is a space to think
+ Feb 4, 2026
+
+ There are many good places for advertising. A conversation with Claude is not one of them.
+ Advertising drives competition, helps people discover new products, and allows services like email and social media to be offered for free. We’ve run our own ad campaigns , and our AI models have, in turn, helped many of our customers in the advertising industry.
+ But including ads in conversations with Claude would be incompatible with what we want Claude to be: a genuinely helpful assistant for work and for deep thinking.
+ We want Claude to act unambiguously in our users’ interests. So we’ve made a choice: Claude will remain ad-free. Our users won’t see “sponsored” links adjacent to their conversations with Claude; nor will Claude’s responses be influenced by advertisers or include third-party product placements our users did not ask for.
+ The nature of AI conversations
+ When people use search engines or social media, they’ve come to expect a mixture of organic and sponsored content. Filtering signal from noise is part of the interaction.
+ Conversations with AI assistants are meaningfully different. The format is open-ended; users often share context and reveal more than they would in a search query. This openness is part of what makes conversations with AI valuable, but it’s also what makes them susceptible to influence in ways that other digital products are not.
+ Our analysis of conversations with Claude (conducted in a way that keeps all data private and anonymous ) shows that an appreciable portion involve topics that are sensitive or deeply personal—the kinds of conversations you might have with a trusted advisor. Many other uses involve complex software engineering tasks, deep work, or thinking through difficult problems. The appearance of ads in these contexts would feel incongruous—and, in many cases, inappropriate.
+ We still have much to learn about the impact of AI models on the people who use them. Early research suggests both benefits—like people finding support they couldn’t access elsewhere—and risks, including the potential for models to reinforce harmful beliefs in vulnerable users. Introducing advertising incentives at this stage would add another level of complexity. Our understanding of how models translate the goals we set them into specific behaviors is still developing; an ad-based system could therefore have unpredictable results.
+ Incentive structures
+ Being genuinely helpful is one of the core principles of Claude’s Constitution , the document that describes our vision for Claude’s character and guides how we train the model. An advertising-based business model would introduce incentives that could work against this principle.
+ Consider a concrete example. A user mentions they’re having trouble sleeping. An assistant without advertising incentives would explore the various potential causes—stress, environment, habits, and so on—based on what might be most insightful to the user. An ad-supported assistant has an additional consideration: whether the conversation presents an opportunity to make a transaction. These objectives may often align—but not always. And, unlike a list of search results, ads that influence a model’s responses may make it difficult to tell whether a given recommendation comes with a commercial motive or not. Users shouldn’t have to second-guess whether an AI is genuinely helping them or subtly steering the conversation towards something monetizable.
+ Even ads that don’t directly influence an AI model’s responses and instead appear separately within the chat window would compromise what we want Claude to be: a clear space to think and work. Such ads would also introduce an incentive to optimize for engagement—for the amount of time people spend using Claude and how often they return. These metrics aren’t necessarily aligned with being genuinely helpful. The most useful AI interaction might be a short one, or one that resolves the user’s request without prompting further conversation.
+ We recognize that not all advertising implementations are equivalent. More transparent or opt-in approaches—where users explicitly choose to see sponsored content—might avoid some of the concerns outlined above. But the history of ad-supported products suggests that advertising incentives, once introduced, tend to expand over time as they become integrated into revenue targets and product development, blurring boundaries that were once more clear-cut. We’ve chosen not to introduce these dynamics into Claude.
+ Our approach
+ Anthropic is focused on businesses, developers, and helping our users flourish. Our business model is straightforward: we generate revenue through enterprise contracts and paid subscriptions, and we reinvest that revenue into improving Claude for our users. This is a choice with tradeoffs, and we respect that other AI companies might reasonably reach different conclusions.
+ Expanding access to Claude is central to our public benefit mission, and we want to do it without selling our users’ attention or data to advertisers. To that end, we’ve brought AI tools and training to educators in over 60 countries, begun national AI education pilots with multiple governments , and made Claude available to nonprofits at a significant discount. We continue to invest in our smaller models so that our free offering remains at the frontier of intelligence, and we may consider lower-cost subscription tiers and regional pricing where there is clear demand for it. Should we need to revisit this approach, we’ll be transparent about our reasons for doing so.
+ Supporting commerce
+ AI will increasingly interact with commerce, and we look forward to supporting this in ways that help our users. We’re particularly interested in the potential of agentic commerce, where Claude acts on a user’s behalf to handle a purchase or booking end to end. And we’ll continue to build features that enable our users to find, compare, or buy products, connect with businesses, and more—when they choose to do so.
+ We’re also exploring more ways to make Claude a focused space to be at your most productive. Users can already connect third-party tools they use for work—like Figma, Asana, and Canva—and interact with them directly within Claude. We expect to introduce many more useful integrations and expand this toolkit over time.
+ All third-party interactions will be grounded in the same overarching design principle: they should be initiated by the user (where the AI is working for them) rather than an advertiser (where the AI is working, at least in part, for someone else). Today, whether someone asks Claude to research running shoes, compare mortgage rates, or recommend a restaurant for a special occasion, Claude’s only incentive is to give a helpful answer. We’d like to preserve that.
+ A trusted tool for thought
+ We want our users to trust Claude to help them keep thinking—about their work, their challenges, and their ideas.
+ Our experience of using the internet has made it easy to assume that advertising on the products we use is inevitable. But open a notebook, pick up a well-crafted tool, or stand in front of a clean chalkboard, and there are no ads in sight.
+ We think Claude should work the same way."
+Apple’s Xcode now supports the Claude Agent SDK,https://www.anthropic.com/news/apple-xcode-claude-agent-sdk,"Tue, 03 Feb 2026 00:00:00 +0000","Product
+ Apple’s Xcode now supports the Claude Agent SDK
+ Feb 3, 2026
+
+ Apple's Xcode is where developers build, test, and distribute apps for Apple platforms, including iPhone, iPad, Mac, Apple Watch, Apple Vision Pro, and Apple TV.
+ In September, we announced that developers would have access to Claude Sonnet 4 in Xcode 26. Claude could be used to write code, debug, and generate documentation—but it was limited to helping with individual, turn-by-turn requests.
+ Now, Xcode 26.3 introduces a native integration with the Claude Agent SDK , the same underlying harness that powers Claude Code. Developers get the full power of Claude Code directly in Xcode—including subagents, background tasks, and plugins—all without leaving the IDE.
+ Claude Agent in Xcode
+
+ Using Claude for long-running, autonomous work in Xcode
+ With the Claude Agent SDK, Claude can now work autonomously on much more sophisticated, long-running coding tasks inside Xcode. Specifically, this integration supports:
+ Visual verification with Previews. With the new integration, Claude can capture Xcode Previews to see what the interface it’s building looks like in practice, identify any issues with what it sees, and iterate from there. This is particularly useful when building SwiftUI views, where the visual output is the thing that matters most. Claude can close the loop on its own implementation, allowing it to build higher-quality interfaces that are much closer to developers’ design intent on the first try.
+ Reasoning across projects. Building for Apple platforms means working with a wide range of frameworks and technologies, like SwiftUI, UIKit, Swift Data, and many more. Claude can explore a project's full file structure, understand how these pieces connect, and identify where changes need to be made before it starts writing code. When given a task, it works with an understanding of the whole app and its architecture – not just whichever file is currently open.
+ Autonomous task execution. Claude can be given a goal , rather than a set of specific instructions. It’ll then break the task down itself, decide which files to modify, make the changes, and iterate if something doesn't work. When Claude needs to understand how an Apple API works, or how a specific framework is meant to be used, it can search Apple's documentation directly. And it can update the project as needed and continue until the task is complete or it needs a user’s input—a meaningful time saver for developers who are often working alone or on small teams.
+ Interface through the Model Context Protocol. In addition to accessing Claude Agent directly within the IDE, Xcode 26.3 also makes its capabilities available through the Model Context Protocol. Developers using Claude Code can integrate with Xcode over MCP and capture visual Previews without leaving the CLI.
+
+ Availability
+ Xcode 26.3 is available as a release candidate for all members of the Apple Developer Program starting today, with a release coming soon on Apple’s App Store. See Apple’s announcement here for more ."
+Anthropic partners with Allen Institute and Howard Hughes Medical Institute to accelerate scientific discovery,https://www.anthropic.com/news/anthropic-partners-with-allen-institute-and-howard-hughes-medical-institute,"Mon, 02 Feb 2026 00:00:00 +0000","Societal Impacts
+ Anthropic partners with Allen Institute and Howard Hughes Medical Institute to accelerate scientific discovery
+ Feb 2, 2026
+
+ Modern biological research generates data at unprecedented scale—from single-cell sequencing to whole-brain connectomics—yet transforming that data into validated biological insights remains a fundamental bottleneck. Knowledge synthesis, hypothesis generation, and experimental interpretation still depend on manual processes that can't keep pace with the data being produced.
+ Today, Anthropic is announcing two flagship partnerships designed to close that gap. The Allen Institute and Howard Hughes Medical Institute (HHMI) will serve as founding partners in life sciences, extending Claude’s capabilities to frontier scientific research and enabling teams of scientists to work more effectively together and take on ambitious scientific challenges. Each collaboration brings together Anthropic's expertise in foundation models, agentic systems, and interpretability with world-class research institutions tackling distinct but complementary problems in biology and biomedical science. These partnerships position Claude at the center of scientific experimentation and will build a foundation in which scientists actively use Claude to plan and execute experiments.
+ Both partnerships are committed to transparency and advances that will help the broader scientific community rigorously deploy AI tools across many scientific domains. Scientific AI systems must not only produce accurate predictions but also provide reasoning that researchers can evaluate, trace, and build upon. These collaborations position Claude as a tool that augments, rather than replaces, human scientific judgment — ensuring that AI-generated insights are grounded in evidence and legible to the scientists who use them.
+ Howard Hughes Medical Institute: Building the infrastructure for AI-enabled scientific discovery
+ HHMI will partner with Anthropic to accelerate discovery in the biological sciences as one part of the Institute’s AI@HHMI initiative. The collaboration is anchored at HHMI’s Janelia Research Campus, which has been developing transformative technologies—from genetically encoded calcium sensors to electron microscopes engineered for understanding the architecture of the brain—for two decades. This foundation uniquely positions HHMI to help shape how AI systems participate in and enhance the research process.
+ The partnership with Anthropic will involve close collaboration on both the deployment and ongoing development of AI models, ensuring that AI tools evolve in direct response to real experimental needs. Since announcing AI@HHMI in 2024, HHMI has launched several projects that seek to use AI tools to solve longstanding scientific problems ranging from computational protein design to neural mechanisms of cognition. The collaboration with Anthropic will focus on developing specialized AI agents for use within labs. These will serve as a comprehensive source of experimental knowledge integrated with cutting-edge scientific instruments and analysis pipelines to speed the pace of discovery.
+ Allen Institute: Multi-agent systems for mechanistic discovery
+ The Allen Institute will collaborate with Anthropic to develop multi-agent AI systems for multi-modal data analysis and exploration across the institute's areas of scientific focus. The work will explore how multiple specialized AI agents—for multi-omic data integration, knowledge graph management, temporal dynamics modeling, and experimental design—can be coordinated to support the full arc of scientific investigation.
+ This collaboration will explore how agentic AI systems can compress months of manual analysis into hours while surfacing patterns that human researchers might otherwise miss. These systems are designed to amplify scientific intuition rather than replace it, keeping researchers in control of scientific direction while handling computational complexity.
+ For Anthropic, this collaboration provides in-depth feedback from real scientific use with day-to-day workflows where reliability and judgment matter. Working with the Allen Institute helps surface usability gaps and failure modes that don't appear in more controlled settings.
+ Looking ahead
+ These partnerships will inform the broader development of Claude’s life science capabilities , generating insights about how AI systems can most effectively support scientific workflows across diverse research contexts. Anthropic is committed to responsible development that prioritizes scientific rigor, interpretability, and researcher autonomy."
+ServiceNow chooses Claude to power customer apps and increase internal productivity,https://www.anthropic.com/news/servicenow-anthropic-claude,"Wed, 28 Jan 2026 00:00:00 +0000","Announcements
+ ServiceNow chooses Claude to power customer apps and increase internal productivity
+ Jan 28, 2026
+
+ As enterprises move beyond experimenting with AI and start putting it into production across their core business operations, scale and security matters just as much as capabilities.
+ With this in mind, ServiceNow, which helps large companies manage and automate everything from IT support to HR to customer service on a single platform, has chosen Claude as its default model for its ServiceNow Build Agent, and as a preferred model across the ServiceNow AI Platform. Build Agent helps developers of all skill levels build and use Claude as an “agent” that can reason, decide on actions, and execute tasks autonomously.
+ In addition, ServiceNow is rolling out Claude and Claude Code across its global workforce of more than 29,000 employees to streamline sales preparation—cutting seller preparation time by 95% and boosting engineering productivity with Claude Code to reduce the time between idea and implementation across the organization.
+ Enterprises use ServiceNow’s platform to process more than 80 billion workflows every year—from resolving security incidents to onboarding new employees to managing customer support queues. Now, enterprises can power those workflows with Claude’s reasoning and coding capabilities, with the access controls, usage monitoring, and compliance that enterprise-scale use requires.
+ “A common error enterprises make with AI is to treat it as a kind of ‘bolt on’ tool that you access now and then. But the way to get much better results is to make AI an integral part of how you get work done—woven into the whole range of things workers do every day. That is where you actually start to see what these systems can do, and it's what we're doing in our partnership with ServiceNow,“ said Dario Amodei, CEO and co-founder of Anthropic.
+ “ServiceNow with Anthropic is turning intelligence into action through AI-native workflows for the world’s largest enterprises,“ said Bill McDermott, chairman and CEO of ServiceNow. “This partnership is about reimagining how work gets done. It puts the power to build, deploy, and scale mission-critical applications into the hands of every person, in every industry, at every level. Together, we are proving that deeply integrated platforms with an open ecosystem are how the future is built.”
+ Claude for ServiceNow customers
+ Powering enterprise app development : Claude is the default model powering ServiceNow Build Agent , an enterprise-grade coding solution for building apps and automations with AI. Build Agent has gained significant early traction: ServiceNow expects its usage to quadruple over the next 12 months. By integrating Build Agent with Claude, developers of all skill levels, including professional coders and citizen developers, can use natural language prompts to create applications that previously required significant developer support, or design, test, and use agentic automations. Customers use Claude in ServiceNow to handle tasks that need more advanced AI, while still keeping full visibility and control over what the AI does.
+ Accelerating product adoption and time to value : ServiceNow is also working with us to improve how customers deploy and adopt ServiceNow products. With Claude, ServiceNow is targeting a 50% reduction in time-to-implement for customers—reducing the delay from initial sales conversations to autonomous deployment. Customers and partners will be able to use the same AI-powered approach to speed their own deployments.
+ Applying innovative Claude-powered solutions to industries : ServiceNow is using Claude to build agentic applications for select industries, such as healthcare and life sciences. In these environments, Claude will support tasks like research analysis, claims authorization, and more—all while operating within ServiceNow’s governed platform. Claude is an industry-leading AI model for these tasks*, with Claude Opus 4.5 leading major medical benchmarks and life sciences evaluations. With the ServiceNow AI Platform underpinning these capabilities, claims authorization could be reduced from days to hours while also decreasing costs. ServiceNow and Anthropic will take these innovative industry solutions to market together.
+ How ServiceNow will use Claude internally
+ ServiceNow is putting Claude to work for the companys global workforce, applying the same AI capabilities internally that it brings to customers:
+ Transforming sales productivity : ServiceNow sellers use a Claude-powered coaching tool to prepare for customer meetings. The tool connects Claude to real-time enterprise data and web search, allowing sellers to synthesize prospect information, account context, and other relevant materials in one place. Early results in testing show an up to 95% reduction in preparation time, helping sellers focus on strategic conversations rather than manual research.
+ Boosting productivity with Claude Code : ServiceNow has also rolled out Claude Code, our AI coding assistant, to engineers, developers, and technical teams across the company. Teams use Claude Code to write and review code, debug issues, automate repetitive development tasks, and speed up internal tooling—reducing the time between idea and implementation across the organization.
+ Availability
+ Claude is now available as the default model for Build Agent and as a preferred model across the ServiceNow AI Platform. Tens of thousands of ServiceNow enterprise customers and the company’s global workforce can access Claude to build and deploy agentic automation and workflows across departments. Learn more about ServiceNow’s AI Platform at servicenow.com/ai .
+
+ *For more on these evaluations, see here ."
+Anthropic partners with the UK Government to bring AI assistance to GOV.UK services,https://www.anthropic.com/news/gov-UK-partnership,"Tue, 27 Jan 2026 00:00:00 +0000","Announcements
+ Anthropic partners with the UK Government to bring AI assistance to GOV.UK services
+ Jan 27, 2026
+
+ Anthropic has been selected by the UK's Department for Science, Innovation and Technology (DSIT) to help build and pilot a dedicated AI-powered assistant for GOV.UK. The AI assistant will help people navigate government services and give tailored advice. The initial use case is employment: helping people find work, access training, understand the support and resources available, and more.
+ This builds on the Memorandum of Understanding Anthropic signed in February 2025 with the UK government to explore how advanced AI could transform public services for UK citizens.
+ AI for UK government services that puts safety first
+ Since signing the MOU, Anthropic and DSIT have been collaborating on how to bring AI into government services safely and effectively. The GOV.UK AI assistant, powered by Claude, is one of the first major outcomes of that work. It's an agentic system designed to go beyond answering questions—actively guiding people through government processes with individually-tailored support.
+ Anthropic's mission is to ensure that the world safely makes the transition through transformative AI. “We’re excited to partner with the UK government to help deliver on the AI Opportunities Action Plan,” commented Pip White, Head of UK, Ireland and Northern Europe. “This partnership with the UK government is central to our mission. It demonstrates how frontier AI can be deployed safely for the public benefit, setting the standard for how governments integrate AI into the services their citizens depend on.”
+ A central goal of this partnership is building AI and AI safety expertise within the UK government. Anthropic engineers will work alongside civil servants and software developers at the Government Digital Service throughout the engagement, with the goal of ensuring the UK government can independently maintain the system.
+ Helping more people find work in the UK
+ The AI assistant for GOV.UK will initially focus on supporting job seekers entering or re-entering the workforce. It will provide personalized career advice, help people access training, explain supports, and intelligently route people to the right services based on individual circumstances. It will also maintain context across interactions, so people don't have to start from scratch each time they return. Users will have full control over their data—including what's remembered, and the ability to opt out at any time—with all personal information handled in line with UK data protection law.
+ The project follows DSIT's “Scan, Pilot, Scale” framework, a deliberate, phased approach that allows government and Anthropic to test, learn, and iterate before wider rollout.
+ Our commitment to the UK’s leadership in AI
+ This partnership reflects Anthropic's broader and growing investment in the United Kingdom. We are committed to supporting the UK’s role as a global leader in AI, and our presence in the country continues to deepen across multiple fronts.
+ We continue to work closely with the UK AI Security Institute to test and evaluate our models, ensuring that the safeguards and evaluation frameworks we develop together inform how Claude is deployed in the public sector and beyond. This collaboration is part of our long-standing commitment to building AI systems that are not only capable but safe and trustworthy.
+ Our London office is home to a growing team of AI researchers, and continues to expand with functions including go-to-market, applied AI, policy and more. “Anthropic’s UK team plays a key role in advancing our models at the frontier and transforming the public sector and broader British business landscape, from fast-growing startups like incident.io and Wordsmith to enterprises like WPP and London Stock Exchange Group,”commented Chris Ciauri, Managing Director International.
+ Bringing AI to public services around the world
+ This initiative with DSIT is part of a growing trend of governments and organizations partnering with Anthropic to deploy AI for public benefit. In the UK, we partner with the London School of Economics to provide students access to Claude. In Iceland, we've partnered with the Ministry of Education and Children to launch one of the world's first national AI education pilots, giving teachers across the country access to Claude to support lesson preparation and student learning. Anthropic has also recently partnered with the Rwandan Government to bring AI education to hundreds of thousands of learners across the country."
